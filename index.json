@@ -1,0 +1,4319 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-07",
+ "count": 430,
+ "kinds": [
+  "专家",
+  "专家团"
+ ],
+ "items": [
+  {
+   "id": "ed866aa95a0c",
+   "name": "专家-产品设计-AI图像提示词工程师(画令令)-ai-image-prompt-engineer",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-AI图像提示词工程师(画令令)-ai-image-prompt-engineer.tar.gz",
+   "size": 384831,
+   "sha256": "6408814568b4ffcaad998ec40ca890875d1c49898ec8cd598874f151bbcf8171",
+   "download": "direct"
+  },
+  {
+   "id": "db9d90485f08",
+   "name": "专家-产品设计-Ardot 设计专家(林觉初)-adort-design-expert",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-Ardot 设计专家(林觉初)-adort-design-expert.tar.gz",
+   "size": 1825,
+   "sha256": "11d30e6e61552483a5614a1a3f036ccf955e048a3ce1f02cd073e22486d1cc62",
+   "download": "direct"
+  },
+  {
+   "id": "2e5ddb7fe1fb",
+   "name": "专家-产品设计-NGO 共創卡設計助手(卡仔)-ngo-challenge-advisor",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-NGO 共創卡設計助手(卡仔)-ngo-challenge-advisor.tar.gz",
+   "size": 311437,
+   "sha256": "ad41153d47e924ff2be752b79e78e495e60e0a56a1335cacef0beb3d73ee3396",
+   "download": "direct"
+  },
+  {
+   "id": "e217d96c4c23",
+   "name": "专家-产品设计-UI设计师(像素君)-ui-designer",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-UI设计师(像素君)-ui-designer.tar.gz",
+   "size": 258333,
+   "sha256": "7817bb2c951b73b77742dec77f747231bee888c8927afe34db196a31b98828ff",
+   "download": "direct"
+  },
+  {
+   "id": "123859f8ed3b",
+   "name": "专家-产品设计-产品管理专家(产品通)-product-management",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-产品管理专家(产品通)-product-management.tar.gz",
+   "size": 45541,
+   "sha256": "96a18157319b97e14dcbfae288fd96c7c028e4b7d77c4f41a05260e051b862b0",
+   "download": "direct"
+  },
+  {
+   "id": "81422a892aa8",
+   "name": "专家-产品设计-反馈综合分析师(听声声)-feedback-synthesis-analyst",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-反馈综合分析师(听声声)-feedback-synthesis-analyst.tar.gz",
+   "size": 1431040,
+   "sha256": "22f82e420dbf433de31c8c0b8230f76b27c95b6696a56bd93b5cba2c81594816",
+   "download": "direct"
+  },
+  {
+   "id": "a0b3f700f15f",
+   "name": "专家-产品设计-图表设计与渲染专家(绘灵)-mermaid-diagram-expert",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-图表设计与渲染专家(绘灵)-mermaid-diagram-expert.tar.gz",
+   "size": 1235847,
+   "sha256": "40ad686da2d6b5bab24f162107e227f2053473ad0bfa9b983fc0804375b428ff",
+   "download": "direct"
+  },
+  {
+   "id": "0863ae2af324",
+   "name": "专家-产品设计-多元视觉专家(多元元)-diversity-visual-expert",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-多元视觉专家(多元元)-diversity-visual-expert.tar.gz",
+   "size": 315104,
+   "sha256": "406f88d4991df1f57cb2c6ec55cdd27bf83dcb80f69dcfa68bfa6d4ef0c87081",
+   "download": "direct"
+  },
+  {
+   "id": "620c8db3c7f1",
+   "name": "专家-产品设计-用户体验架构师(体验达)-user-experience-architect",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-用户体验架构师(体验达)-user-experience-architect.tar.gz",
+   "size": 357153,
+   "sha256": "0cf9eb4dab139da819799078e1e833ff474bc76653920c634b9db257a2df6fb3",
+   "download": "direct"
+  },
+  {
+   "id": "6695fcc00ffb",
+   "name": "专家-产品设计-用户体验研究员(探真真)-user-experience-researcher",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-用户体验研究员(探真真)-user-experience-researcher.tar.gz",
+   "size": 637199,
+   "sha256": "76f7e7f37dba85dfef7e85c95459346de6213f0b031eae69a9a4f65d66d751e6",
+   "download": "direct"
+  },
+  {
+   "id": "c191af3e4e3a",
+   "name": "专家-产品设计-行为助推引擎(助推推)-behavioral-nudge-engine",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-行为助推引擎(助推推)-behavioral-nudge-engine.tar.gz",
+   "size": 1453660,
+   "sha256": "bb868f79d967f9260270a30410572e0633c8e14e6c63cbba7f982059c37f8fd4",
+   "download": "direct"
+  },
+  {
+   "id": "c6177148e41c",
+   "name": "专家-产品设计-视觉叙事专家(图说说)-visual-storytelling-expert",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-视觉叙事专家(图说说)-visual-storytelling-expert.tar.gz",
+   "size": 683596,
+   "sha256": "0e6330fad728e265d113dc4f175cace0edf748581fb8e495c54a5386b47c7828",
+   "download": "direct"
+  },
+  {
+   "id": "b7295659a54a",
+   "name": "专家-产品设计-设计工作室主理人(小花创意)-design-prototype-expert",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-设计工作室主理人(小花创意)-design-prototype-expert.tar.gz",
+   "size": 196303,
+   "sha256": "f5bbd06b755953d1faf1fe0cba33d4328e7609b4e2ab2b6ff79c2d089d0d1628",
+   "download": "direct"
+  },
+  {
+   "id": "85bafc3bfd9f",
+   "name": "专家-产品设计-设计系统架构师(规范范)-design-md-architect",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-设计系统架构师(规范范)-design-md-architect.tar.gz",
+   "size": 3226178,
+   "sha256": "087b7334b72cb0fb110cf9e9ab7cbc7df2e113bd1daa180158a81b6279966082",
+   "download": "direct"
+  },
+  {
+   "id": "bce7789caf64",
+   "name": "专家-产品设计-设计转代码专家(图变码)-design-to-code",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-设计转代码专家(图变码)-design-to-code.tar.gz",
+   "size": 13670,
+   "sha256": "dcf58618b526bb70bcea373182c08065eb3039159b43e78671ebab8bbf52268b",
+   "download": "direct"
+  },
+  {
+   "id": "60a11ce5138c",
+   "name": "专家-产品设计-趣味体验设计师(惊喜喜)-delightful-experience-designer",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-趣味体验设计师(惊喜喜)-delightful-experience-designer.tar.gz",
+   "size": 338955,
+   "sha256": "82baead88a94569e4c4df7c0998778c865cda8e84e331a92f20f8475cede40b3",
+   "download": "direct"
+  },
+  {
+   "id": "450dad4001e8",
+   "name": "专家-产品设计-迭代优先级管理者(排序序)-sprint-priority-manager",
+   "kind": "专家",
+   "category": "产品设计",
+   "path": "专家/专家-产品设计-迭代优先级管理者(排序序)-sprint-priority-manager.tar.gz",
+   "size": 300334,
+   "sha256": "5526fba573d5ffbf4f788cb1e7ca536da903950e5c1a9363389fa243af9bf116",
+   "download": "direct"
+  },
+  {
+   "id": "c0f18d4dc5a0",
+   "name": "专家-全球发展-公共事务顾问(阿联酋公共事务专家)-uae-public-affairs",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-公共事务顾问(阿联酋公共事务专家)-uae-public-affairs.tar.gz",
+   "size": 447501,
+   "sha256": "88e228a429cf6936a296c286a24802d8703b33e5834335e6a0cc3d0d9611fcd7",
+   "download": "direct"
+  },
+  {
+   "id": "2061cf43fd94",
+   "name": "专家-全球发展-印尼公共事务专家(Indo Pub Affair)-indonesia-pa-expert",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-印尼公共事务专家(Indo Pub Affair)-indonesia-pa-expert.tar.gz",
+   "size": 348093,
+   "sha256": "857d019e63330c1a47e8d0ed04f0fe13178be40fe5936c4645992e74613d4d97",
+   "download": "direct"
+  },
+  {
+   "id": "07ee72b4147e",
+   "name": "专家-全球发展-印尼商务拓展专家-indonesia-bd-expert",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-印尼商务拓展专家-indonesia-bd-expert.tar.gz",
+   "size": 1917634,
+   "sha256": "bfedfbd9e91d86f44d4b35435872b036e7710679081c178f3d246ee3e48e1082",
+   "download": "direct"
+  },
+  {
+   "id": "44e65a8b27c7",
+   "name": "专家-全球发展-印尼法务合规专家-indonesia-digital-law-expert",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-印尼法务合规专家-indonesia-digital-law-expert.tar.gz",
+   "size": 14767440,
+   "sha256": "4ef5f1dbb5911a863b2547a38522585e2c56da69df59558d20343db5b6acb0be",
+   "download": "direct"
+  },
+  {
+   "id": "80677fdf0081",
+   "name": "专家-全球发展-埃及公共事务专家(Egypt Public Affairs)-egypt-public-affairs",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-埃及公共事务专家(Egypt Public Affairs)-egypt-public-affairs.tar.gz",
+   "size": 449692,
+   "sha256": "517af7d136fec62849efb7e0587fdae17d92a2dcf0daeaefcbe2a592f34e704b",
+   "download": "direct"
+  },
+  {
+   "id": "4ff7b1188a6c",
+   "name": "专家-全球发展-埃及市场营销专家-egypt-marketing",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-埃及市场营销专家-egypt-marketing.tar.gz",
+   "size": 321684,
+   "sha256": "4a909aac6777cc4899f82402385fb6f67708200bdc20fb8f55f153d020893502",
+   "download": "direct"
+  },
+  {
+   "id": "a6025f1cab5c",
+   "name": "专家-全球发展-埃及战略顾问(Egypt Strategic Advisory)-egypt-strategic-advisory",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-埃及战略顾问(Egypt Strategic Advisory)-egypt-strategic-advisory.tar.gz",
+   "size": 643482,
+   "sha256": "b56e6cd7648bd9d5d9844a2f3a30f2bdbf8dfdfd46f13ad90271f00e534ecdca",
+   "download": "direct"
+  },
+  {
+   "id": "023abaf6f791",
+   "name": "专家-全球发展-巴西商务拓展专家-brazil-company-query",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-巴西商务拓展专家-brazil-company-query.tar.gz",
+   "size": 1281091,
+   "sha256": "9ecd5226bd614ecfb955a310420c865503851367a6132dc9cb46cfa6cb31292e",
+   "download": "direct"
+  },
+  {
+   "id": "c5d310b39a21",
+   "name": "专家-全球发展-巴西法务合规专家(Brazil Legal Expert)-brazil-legal",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-巴西法务合规专家(Brazil Legal Expert)-brazil-legal.tar.gz",
+   "size": 308254,
+   "sha256": "14863778dd87c8a87e5900ad1cd8645f7b0ba64d7eb0c0900f01ce37485c5782",
+   "download": "direct"
+  },
+  {
+   "id": "b987d88396b2",
+   "name": "专家-全球发展-巴西财税金融专家(Brazil Finance & Tax Expert)-brazil-rfb-expert",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-巴西财税金融专家(Brazil Finance & Tax Expert)-brazil-rfb-expert.tar.gz",
+   "size": 1221854,
+   "sha256": "93bb6505396bbb1475dae1e92bb092b87c988465a41c0421a8a6ee35987efac3",
+   "download": "direct"
+  },
+  {
+   "id": "819faca6fc8c",
+   "name": "专家-全球发展-新加坡人力行政专家(Sg HR & Admin)-sg-hr-admin-expert",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-新加坡人力行政专家(Sg HR & Admin)-sg-hr-admin-expert.tar.gz",
+   "size": 376407,
+   "sha256": "4e0e1dbd7da1ea3c73247016bbdf2d8de8691c7bfc7f2fc8dd8bbf8f45b9b3d1",
+   "download": "direct"
+  },
+  {
+   "id": "cf59caf10c0c",
+   "name": "专家-全球发展-新加坡商务拓展专家(Sg Business)-sg-biz-dev",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-新加坡商务拓展专家(Sg Business)-sg-biz-dev.tar.gz",
+   "size": 372226,
+   "sha256": "135e9fe67d943dc06d9f4c62b04995a1eaa40f5eafee8b42642fdcafd224376a",
+   "download": "direct"
+  },
+  {
+   "id": "c1073aab64a4",
+   "name": "专家-全球发展-新加坡财税金融专家(Sg Finance & Tax)-sg-finance-tax",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-新加坡财税金融专家(Sg Finance & Tax)-sg-finance-tax.tar.gz",
+   "size": 191474,
+   "sha256": "70269f6be1d40b525a3159fa77048d59e80711e4baa969b780fa4b5320d5c543",
+   "download": "direct"
+  },
+  {
+   "id": "1d2734504d46",
+   "name": "专家-全球发展-泰国人力行政专家(Thai HR&Admin)-thailand-hr-admin",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-泰国人力行政专家(Thai HR&Admin)-thailand-hr-admin.tar.gz",
+   "size": 322819,
+   "sha256": "2125012afd049d4df81d857ff565c7e9bbf8d1996b835ad3418393208a7d811e",
+   "download": "direct"
+  },
+  {
+   "id": "949d7c67b05a",
+   "name": "专家-全球发展-泰国市场营销专家-thai-marketing-creative",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-泰国市场营销专家-thai-marketing-creative.tar.gz",
+   "size": 380364,
+   "sha256": "684bc0daaf80aeaafbf1f3e551158700def8942816a66bc5cf3d5b6c8a88edb3",
+   "download": "direct"
+  },
+  {
+   "id": "fb48a179d9a1",
+   "name": "专家-全球发展-阿联酋市场营销专家(UAE Marketing Expert)-uae-marketing-advisor",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-阿联酋市场营销专家(UAE Marketing Expert)-uae-marketing-advisor.tar.gz",
+   "size": 344514,
+   "sha256": "8481d59486aace17591f48afe537de421ae3d1fe30b510dcbd3618d66821ae9d",
+   "download": "direct"
+  },
+  {
+   "id": "d60d3db07bb1",
+   "name": "专家-全球发展-阿联酋战略顾问(阿联酋战略顾问专家)-uae-strategic-advisor",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-阿联酋战略顾问(阿联酋战略顾问专家)-uae-strategic-advisor.tar.gz",
+   "size": 323897,
+   "sha256": "09f55d6fb13eaabe81a9b867344576bc6cea268a3cdffc7764fd5460bc939b1d",
+   "download": "direct"
+  },
+  {
+   "id": "a2e4ebe82fa5",
+   "name": "专家-全球发展-马来西亚人力行政专家(Malaysia HR & Administration)-malaysia-hr-admin",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-马来西亚人力行政专家(Malaysia HR & Administration)-malaysia-hr-admin.tar.gz",
+   "size": 41773642,
+   "sha256": "9422e831f8dd97742eae224aba532064098d3cd94d95d58bfb7d86cfb9aae07a",
+   "download": "direct"
+  },
+  {
+   "id": "0664cb5075bf",
+   "name": "专家-全球发展-马来西亚市场营销专家(大马营销通)-malaysia-marketing",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-马来西亚市场营销专家(大马营销通)-malaysia-marketing.tar.gz",
+   "size": 290674,
+   "sha256": "21a316db4f919ac3551cea9b5acc0c1d210fa2f1f46a8a860287fe8160f54e02",
+   "download": "direct"
+  },
+  {
+   "id": "81e68dea1abf",
+   "name": "专家-全球发展-马来西亚法务合规专家(Malaysia Legal & Compliance)-malaysia-legal",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-马来西亚法务合规专家(Malaysia Legal & Compliance)-malaysia-legal.tar.gz",
+   "size": 18916283,
+   "sha256": "e307f819629617301bba1c6656a1092cdaf0d00da169d7744b505c9ecd30f3e3",
+   "download": "direct"
+  },
+  {
+   "id": "cba9f42c26e7",
+   "name": "专家-全球发展-马来西亚财税金融专家-malaysia-finance-tax",
+   "kind": "专家",
+   "category": "全球发展",
+   "path": "专家/专家-全球发展-马来西亚财税金融专家-malaysia-finance-tax.tar.gz",
+   "size": 16151628,
+   "sha256": "45270cda28fde359cf651c081a84187a8f0656a1a3e0bdd26cce96cbf1c726b8",
+   "download": "direct"
+  },
+  {
+   "id": "cbbe6eb8d161",
+   "name": "专家-内容创作-AI师傅课程制作专家(AI师傅)-ai-shifu",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-AI师傅课程制作专家(AI师傅)-ai-shifu.tar.gz",
+   "size": 161017,
+   "sha256": "d76dc0107b8ed575c6b1618a0aac39866876e109464395374a93fd18e76b9e27",
+   "download": "direct"
+  },
+  {
+   "id": "b4537eda723b",
+   "name": "专家-内容创作-AI师傅课程制作专家(AI师傅)-ai-shifu-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-AI师傅课程制作专家(AI师傅)-ai-shifu-expert.tar.gz",
+   "size": 152985,
+   "sha256": "60808c5a03ee3906d801e09c5251cb3ed5ea8dbb0150520a77e3b76689239106",
+   "download": "direct"
+  },
+  {
+   "id": "d885250d653f",
+   "name": "专家-内容创作-AI痕迹消除专家(鹏城信息AI专家)-ai-humanizer",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-AI痕迹消除专家(鹏城信息AI专家)-ai-humanizer.tar.gz",
+   "size": 388236,
+   "sha256": "a4202574b5aa44c071041a72993558db982f7428486cc9c3bb88d95953ba3a85",
+   "download": "direct"
+  },
+  {
+   "id": "8b8738e57579",
+   "name": "专家-内容创作-AI视频脚本创作专家(鹏城信息AI专家)-ai-video-script",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-AI视频脚本创作专家(鹏城信息AI专家)-ai-video-script.tar.gz",
+   "size": 280764,
+   "sha256": "52dee27948b9e9f89d67d23f89019bc3e7eb92b6134a2b1e4cd37c26d22b67b9",
+   "download": "direct"
+  },
+  {
+   "id": "8367fbfe20ce",
+   "name": "专家-内容创作-B站内容策略师(弹幕幕)-bilibili-content-strategist",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-B站内容策略师(弹幕幕)-bilibili-content-strategist.tar.gz",
+   "size": 455953,
+   "sha256": "af7920679f011e42a88199b8b46f23ff66eed2837c16d0c4d39e6bf5698119f2",
+   "download": "direct"
+  },
+  {
+   "id": "6627df44c953",
+   "name": "专家-内容创作-ChatCut 视频剪辑师(一站式视频创作专家)-chatcut-video-editor",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-ChatCut 视频剪辑师(一站式视频创作专家)-chatcut-video-editor.tar.gz",
+   "size": 146998,
+   "sha256": "779ffaf5bf7d34d4bc6b8a4b8d5bff58de6708f3864b8047c37729ec304bcfe5",
+   "download": "direct"
+  },
+  {
+   "id": "5c7b89473efc",
+   "name": "专家-内容创作-HTML幻灯片制作专家(鹏城信息AI专家)-frontend-slides",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-HTML幻灯片制作专家(鹏城信息AI专家)-frontend-slides.tar.gz",
+   "size": 243304,
+   "sha256": "72ee97dd068e620a8f0da9b7c7430488adefe5f2663a6f3abbdbaec104ca531f",
+   "download": "direct"
+  },
+  {
+   "id": "a6dada80c629",
+   "name": "专家-内容创作-Instagram运营专家(晒图图)-instagram-operations-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-Instagram运营专家(晒图图)-instagram-operations-expert.tar.gz",
+   "size": 327066,
+   "sha256": "979760aef49b2915e00a781347b5d1560a60fec3aa56527090cbe59ebd546614",
+   "download": "direct"
+  },
+  {
+   "id": "edf1bcd0abc8",
+   "name": "专家-内容创作-PDF 处理专家(金山文档PDF处理助手)-kdocs-pdf-toolbox",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-PDF 处理专家(金山文档PDF处理助手)-kdocs-pdf-toolbox.tar.gz",
+   "size": 324483,
+   "sha256": "ec2df73064efa88c6b2483be6eefe8a5d301549e4ce6274b279b4c6df372784d",
+   "download": "direct"
+  },
+  {
+   "id": "8857f95557b7",
+   "name": "专家-内容创作-PPT 创作专家(金山文档PPT创作助手)-kdocs-ppt-creator",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-PPT 创作专家(金山文档PPT创作助手)-kdocs-ppt-creator.tar.gz",
+   "size": 307243,
+   "sha256": "1472cbd4cb6578d91b46a3462661f6bef1b165372552c6f1ab8726984b13ad55",
+   "download": "direct"
+  },
+  {
+   "id": "e4a645815266",
+   "name": "专家-内容创作-TikTok策略师(拓刻刻)-tik-tok-strategist",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-TikTok策略师(拓刻刻)-tik-tok-strategist.tar.gz",
+   "size": 349457,
+   "sha256": "1624ccfa6b6f3c76dd3cb930ead72c0ece8ed65fe39d0b7a55f1b4a9206d3e48",
+   "download": "direct"
+  },
+  {
+   "id": "4bf885fb3aec",
+   "name": "专家-内容创作-Twitter运营专家(推文文)-twitter-operations-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-Twitter运营专家(推文文)-twitter-operations-expert.tar.gz",
+   "size": 308526,
+   "sha256": "f72512ba3d0fda4aa9edcf020eea5ce9d588dc3e1e6203a3b57e327ba9e5468b",
+   "download": "direct"
+  },
+  {
+   "id": "3d98780ee52e",
+   "name": "专家-内容创作-VibeKnow PPT-PDF讲解大师(逐页讲解，一键成片)-vibeknow-ppt-explain",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-VibeKnow PPT-PDF讲解大师(逐页讲解，一键成片)-vibeknow-ppt-explain.tar.gz",
+   "size": 72304,
+   "sha256": "cbdcb82a3e2817e7d3f5b02efb70cc817c80ec59445aa0574ca52c379542fb44",
+   "download": "direct"
+  },
+  {
+   "id": "3eac2f306288",
+   "name": "专家-内容创作-VibeKnow 手绘视频专家(把专业内容画给外行看懂)-vibeknow-handdraw",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-VibeKnow 手绘视频专家(把专业内容画给外行看懂)-vibeknow-handdraw.tar.gz",
+   "size": 88532,
+   "sha256": "2c9841777001ae37ef064528a0c4a5c7b105bd1c91b82404c8715f5968b4c3c1",
+   "download": "direct"
+  },
+  {
+   "id": "d8cf88c306f2",
+   "name": "专家-内容创作-VibeKnow 视频专家(一份文档，排成一条成片)-vibeknow-design-video",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-VibeKnow 视频专家(一份文档，排成一条成片)-vibeknow-design-video.tar.gz",
+   "size": 1253517,
+   "sha256": "7dcbba96ddb9e84e5bb6684cfe2d4c9783e58cc99ad9fb41d87b1a6643abe3a2",
+   "download": "direct"
+  },
+  {
+   "id": "3a3866385301",
+   "name": "专家-内容创作-世界观架构师 - 连续性编辑(小说故事创作专家)-novel-creator",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-世界观架构师 - 连续性编辑(小说故事创作专家)-novel-creator.tar.gz",
+   "size": 460147,
+   "sha256": "ce6f7bf60afb8f6bd156f6eac4d190e12973e0588c0579bd24ab1637f4b9c881",
+   "download": "direct"
+  },
+  {
+   "id": "7c70d3bd328d",
+   "name": "专家-内容创作-公众号爆文写作专家(爆款捕手)-wechat-viral-writer",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-公众号爆文写作专家(爆款捕手)-wechat-viral-writer.tar.gz",
+   "size": 81133,
+   "sha256": "3eed55cde6aa534ed09cb66a0950db1ad888e3e20ff9668d23b3ae05a39dd35c",
+   "download": "direct"
+  },
+  {
+   "id": "4425b171bef2",
+   "name": "专家-内容创作-内容创作专家(文博凯)-content-creator",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-内容创作专家(文博凯)-content-creator.tar.gz",
+   "size": 677238,
+   "sha256": "17678799df6a3542f8d65f147b82e3e162352fcdd871f0c57a89a000aed6ec49",
+   "download": "direct"
+  },
+  {
+   "id": "a1e70d851f78",
+   "name": "专家-内容创作-图书联合创作者(著书书)-book-co-creator",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-图书联合创作者(著书书)-book-co-creator.tar.gz",
+   "size": 1438425,
+   "sha256": "79e3ce18065c57387bd1dff6b37dade5a06e157f579e16deca63ff8998f5339e",
+   "download": "direct"
+  },
+  {
+   "id": "3d549fbd8632",
+   "name": "专家-内容创作-妈妈问答(福帮手)-fbsir-mom-dialogue-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-妈妈问答(福帮手)-fbsir-mom-dialogue-expert.tar.gz",
+   "size": 190227,
+   "sha256": "9bfa5bdd900a266a775efc1eb4a7c4a4d65b7190bb33e5d9d4a8852e732710e3",
+   "download": "direct"
+  },
+  {
+   "id": "34596ea897ec",
+   "name": "专家-内容创作-媒体头图编辑(贴图头条)-tietu-toutiao",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-媒体头图编辑(贴图头条)-tietu-toutiao.tar.gz",
+   "size": 66426,
+   "sha256": "efe00841804e6dcea706a8eded16ccce4d66c5e487fac324c6b80997b2baef54",
+   "download": "direct"
+  },
+  {
+   "id": "89a6332d5eb3",
+   "name": "专家-内容创作-小红书运营专家(薛红笙)-xiaohongshu-operations-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-小红书运营专家(薛红笙)-xiaohongshu-operations-expert.tar.gz",
+   "size": 457779,
+   "sha256": "def9de6b5cc41f95941865c882eb3e64d53f16082831c7c31874c74e7587db92",
+   "download": "direct"
+  },
+  {
+   "id": "be9838c344a4",
+   "name": "专家-内容创作-微信公众号运营专家(郝文昌)-wechat-official-account-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-微信公众号运营专家(郝文昌)-wechat-official-account-expert.tar.gz",
+   "size": 359916,
+   "sha256": "b016c1bf2d894b8460c3e4f7686dbf3777f6acd012e9c8366bb844ea16ab2faa",
+   "download": "direct"
+  },
+  {
+   "id": "67e5995287cf",
+   "name": "专家-内容创作-微博策略师(热搜搜)-weibo-strategist",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-微博策略师(热搜搜)-weibo-strategist.tar.gz",
+   "size": 338617,
+   "sha256": "1925b223e362260d7d17c8223628c46616f96ddbe4d143541bf5fe83238a8ccb",
+   "download": "direct"
+  },
+  {
+   "id": "b4d35bc753ac",
+   "name": "专家-内容创作-快手策略师(老铁铁)-kuaishou-strategist",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-快手策略师(老铁铁)-kuaishou-strategist.tar.gz",
+   "size": 291501,
+   "sha256": "e36987bb056d9d93053f51119ece1f05cdc6c799dfa0b00fcb7497369dd37dc9",
+   "download": "direct"
+  },
+  {
+   "id": "c5396029ca10",
+   "name": "专家-内容创作-抖音策略师(斗音音)-douyin-strategist",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-抖音策略师(斗音音)-douyin-strategist.tar.gz",
+   "size": 368736,
+   "sha256": "1d20234aafa80228fa2f9a6b73187a8c928437b86cc1a2dc64ac03b204a45d3c",
+   "download": "direct"
+  },
+  {
+   "id": "0e289b7e542b",
+   "name": "专家-内容创作-播客策略师(声浪浪)-podcast-strategist",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-播客策略师(声浪浪)-podcast-strategist.tar.gz",
+   "size": 339199,
+   "sha256": "8ac53ec3814431637eb536e066e95701c99dffda99bbde1b0946f254916eb927",
+   "download": "direct"
+  },
+  {
+   "id": "f088c1270050",
+   "name": "专家-内容创作-文档管家(金山文档文档管家助手)-kdocs-doc-butler",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-文档管家(金山文档文档管家助手)-kdocs-doc-butler.tar.gz",
+   "size": 345429,
+   "sha256": "40be4bdcbb9c6dfbc4d04ad5843306933f8d177344d04772c2c563aef1769dd2",
+   "download": "direct"
+  },
+  {
+   "id": "fcc45c90de80",
+   "name": "专家-内容创作-爆款选题策划专家(爆款炼金师)-viral-topic-master",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-爆款选题策划专家(爆款炼金师)-viral-topic-master.tar.gz",
+   "size": 349788,
+   "sha256": "555f02991262c75f56054d1910af37d942bfba389c8ffda36488b7129a1afef4",
+   "download": "direct"
+  },
+  {
+   "id": "765598777b35",
+   "name": "专家-内容创作-爽文小说生成专家(鹏城信息AI专家)-novel-generator",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-爽文小说生成专家(鹏城信息AI专家)-novel-generator.tar.gz",
+   "size": 245544,
+   "sha256": "7467bd49a2c69bf1e5fbc0666c30c695d96b99dfa8d95d6bf8f885c09093fb29",
+   "download": "direct"
+  },
+  {
+   "id": "195d48188bd4",
+   "name": "专家-内容创作-知乎策略师(答有道)-zhihu-strategist",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-知乎策略师(答有道)-zhihu-strategist.tar.gz",
+   "size": 297755,
+   "sha256": "010177d1ab6988055df01f38d67a397d462b3c18c42ea9d3229a98af1f53bb4e",
+   "download": "direct"
+  },
+  {
+   "id": "3c6e4aea316c",
+   "name": "专家-内容创作-知识收藏专家(金山文档知识收藏助手)-kdocs-knowledge-collector",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-知识收藏专家(金山文档知识收藏助手)-kdocs-knowledge-collector.tar.gz",
+   "size": 322602,
+   "sha256": "c776f815a8cd0efeae66c053334a4c7cc542582fda0ab283e46623beebc8f4dd",
+   "download": "direct"
+  },
+  {
+   "id": "474ebe05e09b",
+   "name": "专家-内容创作-知识视频创作专家(吟游诗人基德创作专家)-kidd-content-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-知识视频创作专家(吟游诗人基德创作专家)-kidd-content-expert.tar.gz",
+   "size": 65262,
+   "sha256": "14f9f35b4d54cbff3623cfee5e1747402875c3e11600fb240c0b76ddc6224c92",
+   "download": "direct"
+  },
+  {
+   "id": "60e8148f9545",
+   "name": "专家-内容创作-短视频剪辑教练(剪神神)-short-video-editing-coach",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-短视频剪辑教练(剪神神)-short-video-editing-coach.tar.gz",
+   "size": 335225,
+   "sha256": "47dde031da032426aff60accf1b499ee82dd25dbfd703659e896b0f0fc667d81",
+   "download": "direct"
+  },
+  {
+   "id": "bc5d9309cef4",
+   "name": "专家-内容创作-私人新闻主编(新闻资讯专家)-news-briefing-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-私人新闻主编(新闻资讯专家)-news-briefing-expert.tar.gz",
+   "size": 365433,
+   "sha256": "77528b5f31a5a2cd1b2f2cfa4431d893ede189b9d8a049640c003a7a86050d54",
+   "download": "direct"
+  },
+  {
+   "id": "07e08cd5a69c",
+   "name": "专家-内容创作-科技频道选题评估师(科技侠来了)-topic-evaluator",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-科技频道选题评估师(科技侠来了)-topic-evaluator.tar.gz",
+   "size": 357952,
+   "sha256": "a2b22ea5362d1c7a830c4f4917820b545376aa8624e7df207434655b9e79a68d",
+   "download": "direct"
+  },
+  {
+   "id": "0e7b47c6a530",
+   "name": "专家-内容创作-腾讯云PPT制作专家(腾讯云知（乐享）)-ppt-creation-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-腾讯云PPT制作专家(腾讯云知（乐享）)-ppt-creation-expert.tar.gz",
+   "size": 461341,
+   "sha256": "7001c934620b26ffc38efea8d052039d907af4a5555d4997a5670cd28fe25427",
+   "download": "direct"
+  },
+  {
+   "id": "be168a56cf1d",
+   "name": "专家-内容创作-自媒体内容写作专家(鹏城信息AI专家)-content-writer",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-自媒体内容写作专家(鹏城信息AI专家)-content-writer.tar.gz",
+   "size": 211198,
+   "sha256": "454987f17364807f9700559ae0001de1bae3894cdb461a6bbcb7ee703fde5871",
+   "download": "direct"
+  },
+  {
+   "id": "726402e5be8d",
+   "name": "专家-内容创作-视频生成专家(动画画)-remotion-video-generator",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-视频生成专家(动画画)-remotion-video-generator.tar.gz",
+   "size": 457158,
+   "sha256": "b656cfab689d9f11ff45bea85ab062cd11fb0fe7f998d68ef68e105dac027da6",
+   "download": "direct"
+  },
+  {
+   "id": "5eca4f1151fc",
+   "name": "专家-内容创作-资讯顾问(懂秘)-news-buddy",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-资讯顾问(懂秘)-news-buddy.tar.gz",
+   "size": 148291,
+   "sha256": "d10427f58a4a2e81d5b732078799e7f3cfc9f8b8263533470f9ce75addb110f5",
+   "download": "direct"
+  },
+  {
+   "id": "0dcbb284e328",
+   "name": "专家-内容创作-长文档写作与改稿专家(福帮手)-long-manuscript-expert",
+   "kind": "专家",
+   "category": "内容创作",
+   "path": "专家/专家-内容创作-长文档写作与改稿专家(福帮手)-long-manuscript-expert.tar.gz",
+   "size": 221064,
+   "sha256": "ef6942bfe7c7fca9df904db5a1cdc909767b073db08734351a2d1d6645e15e89",
+   "download": "direct"
+  },
+  {
+   "id": "681cc6e30d82",
+   "name": "专家-开学季-Skill 制作顾问(技能匠人)-skill-smith",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-Skill 制作顾问(技能匠人)-skill-smith.tar.gz",
+   "size": 333381,
+   "sha256": "d785987c1d4b2b0ce67bbf473643d731087bfd57dabeb0f9eb712aa558b8f43a",
+   "download": "direct"
+  },
+  {
+   "id": "508dd6cf5ae2",
+   "name": "专家-开学季-大学生生涯决策顾问(生涯领航员)-career-navigator",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-大学生生涯决策顾问(生涯领航员)-career-navigator.tar.gz",
+   "size": 379890,
+   "sha256": "a28ba8b5bd8575ec49c1f9b4aabb2807ce429b3a3938f52baa017ccceb9d2059",
+   "download": "direct"
+  },
+  {
+   "id": "a5dd1b0e64f4",
+   "name": "专家-开学季-大学英语学习教练(Evan老师)-english-writing-coach",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-大学英语学习教练(Evan老师)-english-writing-coach.tar.gz",
+   "size": 286699,
+   "sha256": "3954c81cf5cddd7b2d9d4d250188372ba4f9abbe2a557946987eefdb72817da7",
+   "download": "direct"
+  },
+  {
+   "id": "128d5ce39fbf",
+   "name": "专家-开学季-学运趋势解读师-study-fortune-compass",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-学运趋势解读师-study-fortune-compass.tar.gz",
+   "size": 361452,
+   "sha256": "30914c75d84f471917065c93cdcc9b4208be00628c61a471648d387e09cded03",
+   "download": "direct"
+  },
+  {
+   "id": "a84a6f4e70e1",
+   "name": "专家-开学季-校园求职教练(求职冲刺)-campus-job-search-coach",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-校园求职教练(求职冲刺)-campus-job-search-coach.tar.gz",
+   "size": 351617,
+   "sha256": "e5beef76233f33cf25fbaf1fc1e7968694b84176fd4b9d3d436bf4eea6870151",
+   "download": "direct"
+  },
+  {
+   "id": "ddcce5a3694b",
+   "name": "专家-开学季-校园活动策划与执行顾问(活动操盘手)-campus-event-navigator",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-校园活动策划与执行顾问(活动操盘手)-campus-event-navigator.tar.gz",
+   "size": 470166,
+   "sha256": "9a87abcf2d56fdee773f4881b26ee382440106c0948c1963a341b1c48d3e942e",
+   "download": "direct"
+  },
+  {
+   "id": "a9ee6ab6bfb6",
+   "name": "专家-开学季-校园社交表达教练(社交搭子)-campus-conversation-coach",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-校园社交表达教练(社交搭子)-campus-conversation-coach.tar.gz",
+   "size": 346919,
+   "sha256": "05671a05e7db418d22246a29d0382490b729e2e03356e0a8b5c5788c77311a91",
+   "download": "direct"
+  },
+  {
+   "id": "5bc4743bfa8f",
+   "name": "专家-开学季-电脑操作与排障顾问(小修同学)-computer-operations-advisor",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-电脑操作与排障顾问(小修同学)-computer-operations-advisor.tar.gz",
+   "size": 289965,
+   "sha256": "09da2a72c3f032a2aff436b82890015902c6d329519afe5b43f1bdfa796cd67c",
+   "download": "direct"
+  },
+  {
+   "id": "74ff4e846774",
+   "name": "专家-开学季-笔记课代表(小记同学)-note-class-representative",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-笔记课代表(小记同学)-note-class-representative.tar.gz",
+   "size": 308103,
+   "sha256": "1a5811f94b3acb2e4e9b92075e03f7799e08d921b88cb0e905df3ce1e125b5b0",
+   "download": "direct"
+  },
+  {
+   "id": "9daa0adfcb02",
+   "name": "专家-开学季-考试复习规划师(备考军师)-exam-preparation-planner",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-考试复习规划师(备考军师)-exam-preparation-planner.tar.gz",
+   "size": 296885,
+   "sha256": "ccaa98afb1f17cb70550cf2e2bc152ef37f9f7ced6e48a43f398d02caeca13f2",
+   "download": "direct"
+  },
+  {
+   "id": "3d6147c51c93",
+   "name": "专家-开学季-论文写作导师(论小舟)-thesis-writing-mentor",
+   "kind": "专家",
+   "category": "开学季",
+   "path": "专家/专家-开学季-论文写作导师(论小舟)-thesis-writing-mentor.tar.gz",
+   "size": 436136,
+   "sha256": "78c7aee2ade794895e0b8a257aa0536b58c3fc3633f22c58fb19c0800c983da9",
+   "download": "direct"
+  },
+  {
+   "id": "5fb85fb48206",
+   "name": "专家-技术工程-AI编程方法论与中文开发规范专家(AI编程方法论专家)-superpowers-zh",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-AI编程方法论与中文开发规范专家(AI编程方法论专家)-superpowers-zh.tar.gz",
+   "size": 268939,
+   "sha256": "edc12983aac44dfe5f29915297279a312bf5719b42ebed4a1ac3c045755ffc47",
+   "download": "direct"
+  },
+  {
+   "id": "6b42f661c31a",
+   "name": "专家-技术工程-API开发专家(鹏城信息AI专家)-api-dev",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-API开发专家(鹏城信息AI专家)-api-dev.tar.gz",
+   "size": 277884,
+   "sha256": "90810bdc2e1653c7867ecf4d9dc13e9ab0fc7d3fc4831bebb3ee321148ca4f2c",
+   "download": "direct"
+  },
+  {
+   "id": "55d8e78b11db",
+   "name": "专家-技术工程-DevOps自动化工程师(一键达)-dev-ops-automation-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-DevOps自动化工程师(一键达)-dev-ops-automation-engineer.tar.gz",
+   "size": 301683,
+   "sha256": "f99953667621440396d93e1e8866e4a27082501b3cd0acba00292993340e8349",
+   "download": "direct"
+  },
+  {
+   "id": "b96fa96578fc",
+   "name": "专家-技术工程-Dockerfile生成专家(容器器)-dockerfile-gen",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-Dockerfile生成专家(容器器)-dockerfile-gen.tar.gz",
+   "size": 4857,
+   "sha256": "fce21bf9270a36bd1323652971452e4669f1218affe71fe5b33157a0d2dfa919",
+   "download": "direct"
+  },
+  {
+   "id": "e5682f3fbbe4",
+   "name": "专家-技术工程-Git工作流专家(分支通)-git-workflow-expert",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-Git工作流专家(分支通)-git-workflow-expert.tar.gz",
+   "size": 298121,
+   "sha256": "067fbc172165de4693a177bda3f0384dea9e84970f17b394d9509e60cd567acd",
+   "download": "direct"
+  },
+  {
+   "id": "fa59155401d8",
+   "name": "专家-技术工程-LSP索引工程师(索引引)-lsp-index-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-LSP索引工程师(索引引)-lsp-index-engineer.tar.gz",
+   "size": 344214,
+   "sha256": "ebf0a0d626623425fe158c5dab8ea522a5e3ba0ed9375503406dfd2e8e2af2ce",
+   "download": "direct"
+  },
+  {
+   "id": "de00acacffd7",
+   "name": "专家-技术工程-MCP构建专家(协议通)-mcp-build-expert",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-MCP构建专家(协议通)-mcp-build-expert.tar.gz",
+   "size": 300132,
+   "sha256": "da6fb0f602851a845920d7c420c26c6c0571ac8eced2ed79e152da4fac445e59",
+   "download": "direct"
+  },
+  {
+   "id": "fa4fb2909907",
+   "name": "专家-技术工程-Python 全栈工程师-python-fullstack-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-Python 全栈工程师-python-fullstack-engineer.tar.gz",
+   "size": 314755,
+   "sha256": "e1ce91c44de86e2b3df7878fbbd06c1a3ccd2408983d205738b8cdde7221ea94",
+   "download": "direct"
+  },
+  {
+   "id": "77d5250930ef",
+   "name": "专家-技术工程-Solidity智能合约工程师(链合约)-solidity-smart-contract-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-Solidity智能合约工程师(链合约)-solidity-smart-contract-engineer.tar.gz",
+   "size": 389827,
+   "sha256": "5c678b8f00fb87368738ffe086d743554fdc65f42deee26c96fbd45c40170860",
+   "download": "direct"
+  },
+  {
+   "id": "268596d5e943",
+   "name": "专家-技术工程-事故响应指挥官(救火队)-incident-response-commander",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-事故响应指挥官(救火队)-incident-response-commander.tar.gz",
+   "size": 669682,
+   "sha256": "83cece38a5171285740d02f0596386285b23419e66cdcd9b485c555315429288",
+   "download": "direct"
+  },
+  {
+   "id": "1dc96dcda9fe",
+   "name": "专家-技术工程-代码审查专家(火眼眼)-code-review-expert",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-代码审查专家(火眼眼)-code-review-expert.tar.gz",
+   "size": 322903,
+   "sha256": "8543e5b88f2285c313d7da854796392cc4e92da9b1ec23b18824833c01ed0738",
+   "download": "direct"
+  },
+  {
+   "id": "613e63e60c91",
+   "name": "专家-技术工程-代码开发流程专家(鹏城信息AI专家)-code",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-代码开发流程专家(鹏城信息AI专家)-code.tar.gz",
+   "size": 243649,
+   "sha256": "efc1c66dbc205b81deebde3c69a580e79ea911e7717e50ea6818a7a22b0e81b7",
+   "download": "direct"
+  },
+  {
+   "id": "53d80c03b47a",
+   "name": "专家-技术工程-前端开发工程师(像素匠)-frontend-developer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-前端开发工程师(像素匠)-frontend-developer.tar.gz",
+   "size": 3150140,
+   "sha256": "3fc1dcb2fcc382e5a1eca9d3e947a79428d0c533a6a5119541e57da28b363155",
+   "download": "direct"
+  },
+  {
+   "id": "5ce3bcf57783",
+   "name": "专家-技术工程-前端架构分析专家(鹏城信息AI专家)-eno",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-前端架构分析专家(鹏城信息AI专家)-eno.tar.gz",
+   "size": 222875,
+   "sha256": "bcf064f5bc61354d237ee009beff97101bda195f22885605871c122bc5bb95b1",
+   "download": "direct"
+  },
+  {
+   "id": "15aec501cbfd",
+   "name": "专家-技术工程-前端界面开发专家(鹏城信息AI专家)-frontend",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-前端界面开发专家(鹏城信息AI专家)-frontend.tar.gz",
+   "size": 308937,
+   "sha256": "9ccd05c30b0a154de9f6c481f49e3bcc1728b319a42ffd4131a8b6bbcc468fe7",
+   "download": "direct"
+  },
+  {
+   "id": "64ae39894b1c",
+   "name": "专家-技术工程-后端架构师(磐石石)-backend-architect",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-后端架构师(磐石石)-backend-architect.tar.gz",
+   "size": 3073267,
+   "sha256": "19f7fea2024827d27ee0a292229487e9d3c75ab8b73fb7ebafbcf93e6aacdbd4",
+   "download": "direct"
+  },
+  {
+   "id": "79b26af323c6",
+   "name": "专家-技术工程-基础设施运维专家(运维通)-infrastructure-operations-expert",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-基础设施运维专家(运维通)-infrastructure-operations-expert.tar.gz",
+   "size": 327196,
+   "sha256": "f22d761e8d80e85b689458159919007cfc5fd0171fd098f0d2adec8f7f73bb5d",
+   "download": "direct"
+  },
+  {
+   "id": "ae3f96afb895",
+   "name": "专家-技术工程-大语言模型提示词架构师(提示词工程师)-prompt-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-大语言模型提示词架构师(提示词工程师)-prompt-engineer.tar.gz",
+   "size": 297431,
+   "sha256": "57a29e00ea2e93bf01987eaee73a741cff89c5293528304bea86e41c49fbc2ea",
+   "download": "direct"
+  },
+  {
+   "id": "c60689f0f7ce",
+   "name": "专家-技术工程-威胁检测工程师(猎威威)-threat-detection-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-威胁检测工程师(猎威威)-threat-detection-engineer.tar.gz",
+   "size": 334715,
+   "sha256": "a90de3723a62414d45592d0e4cfa76d63bfeb7110527a77c93092be86df4a132",
+   "download": "direct"
+  },
+  {
+   "id": "297535545e9a",
+   "name": "专家-技术工程-安全工程师(盾甲甲)-security-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-安全工程师(盾甲甲)-security-engineer.tar.gz",
+   "size": 292325,
+   "sha256": "b15d1b63fd02214a14e6817f3060f1d9bdac581ae44f28c946c2f0fb6a8685f1",
+   "download": "direct"
+  },
+  {
+   "id": "1c59f7f54947",
+   "name": "专家-技术工程-嵌入式固件工程师(固件通)-embedded-firmware-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-嵌入式固件工程师(固件通)-embedded-firmware-engineer.tar.gz",
+   "size": 314863,
+   "sha256": "7a37fd56382b9e8e2f74d72844c83bf6bcdfc6d1272271735552d70c96493c59",
+   "download": "direct"
+  },
+  {
+   "id": "f8cbd826713d",
+   "name": "专家-技术工程-工作台搭建师(小台)-workspace-builder",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-工作台搭建师(小台)-workspace-builder.tar.gz",
+   "size": 364695,
+   "sha256": "ba8ad4ff36a5f726f15c1b0a789cf8ef7ae5f185d231a7e1bd06a08e158b8e19",
+   "download": "direct"
+  },
+  {
+   "id": "ae85f8c703b0",
+   "name": "专家-技术工程-工程实践专家(工序达)-engineering-workflow-skills",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-工程实践专家(工序达)-engineering-workflow-skills.tar.gz",
+   "size": 410809,
+   "sha256": "92bc1e4aa17d28f1d3296aa41a7f607d2c6b443bb692b8282b95e9ce5f69f176",
+   "download": "direct"
+  },
+  {
+   "id": "632a92cc8159",
+   "name": "专家-技术工程-开发流水线编排专家(鹏城信息AI专家)-dev-pipeline-orchestrator",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-开发流水线编排专家(鹏城信息AI专家)-dev-pipeline-orchestrator.tar.gz",
+   "size": 230389,
+   "sha256": "24929a6f91e6ba26e2bafa0f0671ee3cb21fed29c0ade895fbc55194631612db",
+   "download": "direct"
+  },
+  {
+   "id": "eeaba5873dc8",
+   "name": "专家-技术工程-微信小程序开发者(小程达)-we-chat-mini-program-developer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-微信小程序开发者(小程达)-we-chat-mini-program-developer.tar.gz",
+   "size": 757768,
+   "sha256": "f2b1398d60eea7d521483aae97bc8d4f74ae37e5e0c786143db10537ab7ae81f",
+   "download": "direct"
+  },
+  {
+   "id": "383b1929242f",
+   "name": "专家-技术工程-快速原型工程师(闪造造)-rapid-prototyping-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-快速原型工程师(闪造造)-rapid-prototyping-engineer.tar.gz",
+   "size": 681634,
+   "sha256": "c0ebd660f922f21467ea8be2fefc120d1d165ebee857a305d9bd6b0d2bbf5268",
+   "download": "direct"
+  },
+  {
+   "id": "09651dfc43a8",
+   "name": "专家-技术工程-数据库设计调优专家(鹏城信息AI专家)-database-operations",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-数据库设计调优专家(鹏城信息AI专家)-database-operations.tar.gz",
+   "size": 368750,
+   "sha256": "0e2a652ff877897bda4808d6bd0c39084e7fb83dce7bab3a52b331d2275e12ea",
+   "download": "direct"
+  },
+  {
+   "id": "1ceedf5c7e43",
+   "name": "专家-技术工程-现代Web开发专家(速构构)-modern-webapp",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-现代Web开发专家(速构构)-modern-webapp.tar.gz",
+   "size": 589143,
+   "sha256": "0f6c2ba24f51b6e401ed640ead297ffadafe33947f60e290c75d0cee534a2589",
+   "download": "direct"
+  },
+  {
+   "id": "b36633f5b133",
+   "name": "专家-技术工程-移动应用开发工程师(掌中灵)-mobile-application-developer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-移动应用开发工程师(掌中灵)-mobile-application-developer.tar.gz",
+   "size": 351974,
+   "sha256": "83895477f9b6fbbb1e1463574c25990a8db2920bfe42d136a397b6bdceaaae4a",
+   "download": "direct"
+  },
+  {
+   "id": "5dc70ce8fd7b",
+   "name": "专家-技术工程-站点可靠性工程师(稳如山)-site-reliability-engineer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-站点可靠性工程师(稳如山)-site-reliability-engineer.tar.gz",
+   "size": 302541,
+   "sha256": "4d76a7dad7c2b597ceeae179adf692338f82ca8dfe30824150e013194a246128",
+   "download": "direct"
+  },
+  {
+   "id": "30fcb093a26f",
+   "name": "专家-技术工程-终端集成专家(终端通)-terminal-integration-expert",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-终端集成专家(终端通)-terminal-integration-expert.tar.gz",
+   "size": 341148,
+   "sha256": "9e2c235d341e07224091e6454af62ee7cbd0d958d5eadf92aaeaa92955b3d492",
+   "download": "direct"
+  },
+  {
+   "id": "43b30b496604",
+   "name": "专家-技术工程-网络质量分析专家(亚伦)-cat-network-quality-analyst",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-网络质量分析专家(亚伦)-cat-network-quality-analyst.tar.gz",
+   "size": 385738,
+   "sha256": "804d2f288b409c6f4d2de1ed99465643a4a8d03d7f85938d59b82cc038493ae0",
+   "download": "direct"
+  },
+  {
+   "id": "e8ff48a4263e",
+   "name": "专家-技术工程-网页发布与前端调试专家(贝锐花生壳)-hsk-devops-expert",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-网页发布与前端调试专家(贝锐花生壳)-hsk-devops-expert.tar.gz",
+   "size": 92279,
+   "sha256": "685ebb3d62c0149f0f31eb06adf0d8d31c3535a28d4c7593740e7240426df145",
+   "download": "direct"
+  },
+  {
+   "id": "5f2d4875924c",
+   "name": "专家-技术工程-腾讯云API专家-tencentcloud-api",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-腾讯云API专家-tencentcloud-api.tar.gz",
+   "size": 306591,
+   "sha256": "270c7ecc908c90bb7131c9b2e16cc3f9cadd88448ba0773857ba61aa7bef078b",
+   "download": "direct"
+  },
+  {
+   "id": "bec08201cc64",
+   "name": "专家-技术工程-腾讯组学HPC集群运维与作业管理专家(组小学)-omics-hpc-expert",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-腾讯组学HPC集群运维与作业管理专家(组小学)-omics-hpc-expert.tar.gz",
+   "size": 409657,
+   "sha256": "69d4eea07126c3f7745e78fde1726ec99591fe361b1a7c18943a9283988c9834",
+   "download": "direct"
+  },
+  {
+   "id": "7247cd2b4ed9",
+   "name": "专家-技术工程-软件架构师(架构通)-software-architect",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-软件架构师(架构通)-software-architect.tar.gz",
+   "size": 357115,
+   "sha256": "99bda9b6e9f31b80f36f468e5e3050f1d1c4b878691cb784e9044068b3a15a1c",
+   "download": "direct"
+  },
+  {
+   "id": "015f630e6317",
+   "name": "专家-技术工程-高级开发工程师(吴八哥)-senior-developer",
+   "kind": "专家",
+   "category": "技术工程",
+   "path": "专家/专家-技术工程-高级开发工程师(吴八哥)-senior-developer.tar.gz",
+   "size": 3062121,
+   "sha256": "0eb189dcf45d679ec673c72b00affe735b11bdbf41bcbfcf9ee961c131a80421",
+   "download": "direct"
+  },
+  {
+   "id": "f79a5839745e",
+   "name": "专家-数据智能-AI工程师(深网网)-ai-engineer",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-AI工程师(深网网)-ai-engineer.tar.gz",
+   "size": 427280,
+   "sha256": "1e768a6b783ce85e436df379d8a0aed49db406be8e08eaee1118a44f500252a4",
+   "download": "direct"
+  },
+  {
+   "id": "9b5e87df82b1",
+   "name": "专家-数据智能-AI影像资产整理专家(秘宝)-mibao-media-archivist",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-AI影像资产整理专家(秘宝)-mibao-media-archivist.tar.gz",
+   "size": 175018,
+   "sha256": "9795c6fda3c013ebaa79be50a7307bb21b25f813d5bddb447378f9b7c013e197",
+   "download": "direct"
+  },
+  {
+   "id": "b3ceeafc5bc2",
+   "name": "专家-数据智能-AI提示词工程专家(鹏城信息AI专家)-prompt-engineering-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-AI提示词工程专家(鹏城信息AI专家)-prompt-engineering-expert.tar.gz",
+   "size": 378982,
+   "sha256": "b016f78257d2baafe37b2b7f63d545f2f06602b8dc1af708d9d138ba76058e50",
+   "download": "direct"
+  },
+  {
+   "id": "c2f185ac6f2b",
+   "name": "专家-数据智能-ArXiv论文追踪专家(鹏城信息AI专家)-arxiv-watcher",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-ArXiv论文追踪专家(鹏城信息AI专家)-arxiv-watcher.tar.gz",
+   "size": 366488,
+   "sha256": "f329424a7310cce212798f60856c13441e0f82a4f33800e302c60548f82b345a",
+   "download": "direct"
+  },
+  {
+   "id": "2c5f4ca65568",
+   "name": "专家-数据智能-DataBrain舆情分析专家-databrain-opinion-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-DataBrain舆情分析专家-databrain-opinion-expert.tar.gz",
+   "size": 315297,
+   "sha256": "2dca7351d3a3f0b9507aff90411a22da9d70f210f41c424feae1d4ead3b8e96e",
+   "download": "direct"
+  },
+  {
+   "id": "9d803edd4fdb",
+   "name": "专家-数据智能-个人知识库架构师-personal-knowledge-architect",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-个人知识库架构师-personal-knowledge-architect.tar.gz",
+   "size": 1550210,
+   "sha256": "91681bc675120c29a4f53e384bf2a31e9bb2660c1ee36caf2db7535ac1c17feb",
+   "download": "direct"
+  },
+  {
+   "id": "76fd7e747eb8",
+   "name": "专家-数据智能-基于CT序列的肺炎AI辅助诊断分析(腾讯健康-觅影-肺部CT影像的肺炎辅助评估专家)-pneumonia-ai-analyst",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-基于CT序列的肺炎AI辅助诊断分析(腾讯健康-觅影-肺部CT影像的肺炎辅助评估专家)-pneumonia-ai-analyst.tar.gz",
+   "size": 427192,
+   "sha256": "0491231bb3851eacdb0566ba54855ebb8b4e48018e941f4a51e6b7ad30fd0c3f",
+   "download": "direct"
+  },
+  {
+   "id": "65b8b9602c5f",
+   "name": "专家-数据智能-思维蒸馏师(女娲)-nuwa",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-思维蒸馏师(女娲)-nuwa.tar.gz",
+   "size": 1341364,
+   "sha256": "45f082c335ac8e02f1e853b6aff3580824b235f72254475ff5581f43b6b3c95c",
+   "download": "direct"
+  },
+  {
+   "id": "f128557b2287",
+   "name": "专家-数据智能-数据分析专家(析数数)-data-analysis",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-数据分析专家(析数数)-data-analysis.tar.gz",
+   "size": 143432,
+   "sha256": "66abd7a685a857112a004e532ef829dad6671a8a01319b406fcb5fa2dd5214c8",
+   "download": "direct"
+  },
+  {
+   "id": "25cbcf90c3a5",
+   "name": "专家-数据智能-数据分析报告师(舒明析)-data-analytics-reporter",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-数据分析报告师(舒明析)-data-analytics-reporter.tar.gz",
+   "size": 341583,
+   "sha256": "4dcc19dae8977b1402b566be774af6ce3ac60c3def57d06063b594e7c7afb288",
+   "download": "direct"
+  },
+  {
+   "id": "edf361ba66a9",
+   "name": "专家-数据智能-数据工程师(管道通)-data-engineer",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-数据工程师(管道通)-data-engineer.tar.gz",
+   "size": 301901,
+   "sha256": "b21c8d39a6dd75e8253c54819d30b6a50e4acdaecfe03f59ad6c6a3b6fd2884e",
+   "download": "direct"
+  },
+  {
+   "id": "90597d8f68d2",
+   "name": "专家-数据智能-数据库优化专家(索引灵)-database-optimization-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-数据库优化专家(索引灵)-database-optimization-expert.tar.gz",
+   "size": 299748,
+   "sha256": "d3567198bc9e372de26a4e72f74e56f375d7f83964b23fef6879bc80852a6ec5",
+   "download": "direct"
+  },
+  {
+   "id": "4e5ec70e892e",
+   "name": "专家-数据智能-数据建表专家(金山文档智能建表助手)-kdocs-data-table",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-数据建表专家(金山文档智能建表助手)-kdocs-data-table.tar.gz",
+   "size": 356824,
+   "sha256": "0f3a17e7d7ab8d0db16307eafcbca7c9a13084dde3ccace835947dfb58755462",
+   "download": "direct"
+  },
+  {
+   "id": "784d9c2e25ee",
+   "name": "专家-数据智能-数据探索专家(探数数)-data",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-数据探索专家(探数数)-data.tar.gz",
+   "size": 47419,
+   "sha256": "89af8ad8f0224bee3c11e44d9df470c67be88db7a5689e6451862b1d6e72ceef",
+   "download": "direct"
+  },
+  {
+   "id": "564cc7546680",
+   "name": "专家-数据智能-数据整合代理(聚数数)-data-integration-agent",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-数据整合代理(聚数数)-data-integration-agent.tar.gz",
+   "size": 307793,
+   "sha256": "d3372330f72f765a1e8f02c27607e005a6dc9aa3510ad1dd5227dc96266ae4f2",
+   "download": "direct"
+  },
+  {
+   "id": "f0d27e2d23b9",
+   "name": "专家-数据智能-智能词汇教练(词力)-vocab-craft-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-智能词汇教练(词力)-vocab-craft-expert.tar.gz",
+   "size": 1526164,
+   "sha256": "ddbb65b3aac1a22b52d55e0df49228aef2975cbfd531453934361350d4a3d333",
+   "download": "direct"
+  },
+  {
+   "id": "c3d2bb55bd08",
+   "name": "专家-数据智能-模型质量保障专家(模检检)-model-quality-assurance-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-模型质量保障专家(模检检)-model-quality-assurance-expert.tar.gz",
+   "size": 316591,
+   "sha256": "5bd7118cc1ff633ae1b82d26d55d52a6eedba438910ac164f5b21c5e6c1e05d2",
+   "download": "direct"
+  },
+  {
+   "id": "ecb4e96c7acf",
+   "name": "专家-数据智能-深度研究专家(深研研)-deep-research",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-深度研究专家(深研研)-deep-research.tar.gz",
+   "size": 258180,
+   "sha256": "957007c483860e7138cc8dbc23fb726ee84a3fa42031a9063db4e05e41142d1b",
+   "download": "direct"
+  },
+  {
+   "id": "fea2ecf90931",
+   "name": "专家-数据智能-游戏舆情分析师(DataBrain X TideRider)-tiderider-sentiment",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-游戏舆情分析师(DataBrain X TideRider)-tiderider-sentiment.tar.gz",
+   "size": 518161,
+   "sha256": "494b0954d467dfc436b0a6b64a584c715ba97ea22d42e45b970ec6fa113f3430",
+   "download": "direct"
+  },
+  {
+   "id": "760eb573b90e",
+   "name": "专家-数据智能-知识管理专家(知库库)-llm-wiki",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-知识管理专家(知库库)-llm-wiki.tar.gz",
+   "size": 8218,
+   "sha256": "724f04f58e5f6e2e27480d78bafad974c0b0658d4b2da06201ef4dc7df2db35b",
+   "download": "direct"
+  },
+  {
+   "id": "62e954de18c9",
+   "name": "专家-数据智能-腾讯CD-GPT生物序列建模专家(组小学)-omics-cdgpt-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯CD-GPT生物序列建模专家(组小学)-omics-cdgpt-expert.tar.gz",
+   "size": 374893,
+   "sha256": "abd9d0e8189d738f967e50319648a8b397a6f6cbe89c234f0c558ed64e3d6a4f",
+   "download": "direct"
+  },
+  {
+   "id": "3f802563c193",
+   "name": "专家-数据智能-腾讯IgGM抗体药物研发专家(组小学)-omics-iggm-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯IgGM抗体药物研发专家(组小学)-omics-iggm-expert.tar.gz",
+   "size": 1864810,
+   "sha256": "725f5f243157d44c34ff4e9388b535d984ac2d70eadb92e0c1fb401a1605c09b",
+   "download": "direct"
+  },
+  {
+   "id": "6c28ed83749c",
+   "name": "专家-数据智能-腾讯ORI多功能酶设计专家(组小学)-omics-ori-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯ORI多功能酶设计专家(组小学)-omics-ori-expert.tar.gz",
+   "size": 1871184,
+   "sha256": "fb709b5fc71a4a9f1b154d9fee49c8a54e72c84b1edbe8b1e7ba400dc7084ab3",
+   "download": "direct"
+  },
+  {
+   "id": "4bf3b0dc035e",
+   "name": "专家-数据智能-腾讯scBert单细胞预训练专家(组小学)-omics-scbert-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯scBert单细胞预训练专家(组小学)-omics-scbert-expert.tar.gz",
+   "size": 317195,
+   "sha256": "7de23e5534f29d4c54906ae47ab6c74fea9bdc1d2a35a4cc49b11a5d64159671",
+   "download": "direct"
+  },
+  {
+   "id": "9b0b968ab2b3",
+   "name": "专家-数据智能-腾讯scPROTEIN单细胞蛋白组建模专家(组小学)-omics-scprotein-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯scPROTEIN单细胞蛋白组建模专家(组小学)-omics-scprotein-expert.tar.gz",
+   "size": 344520,
+   "sha256": "0dd10fb745ac529352e723fca11be62161c3d5fb5c1fcf8393c6f952c01f5857",
+   "download": "direct"
+  },
+  {
+   "id": "0384e4d9ad48",
+   "name": "专家-数据智能-腾讯tFold抗体结构预测专家(组小学)-omics-tfold-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯tFold抗体结构预测专家(组小学)-omics-tfold-expert.tar.gz",
+   "size": 1918423,
+   "sha256": "80de9343c76e3f627204ca859cd1c78ecd2d7c74a550ddffdd04535b145c0d8d",
+   "download": "direct"
+  },
+  {
+   "id": "a335664180de",
+   "name": "专家-数据智能-腾讯云知识问答专家(腾讯云知（乐享）)-yunzhi-qa-assistant",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯云知识问答专家(腾讯云知（乐享）)-yunzhi-qa-assistant.tar.gz",
+   "size": 285886,
+   "sha256": "a9080408fd98c9e1c2a12f88280087f05302d30a7e950dcd024645bfe230f1e2",
+   "download": "direct"
+  },
+  {
+   "id": "90ec5bfbb0e2",
+   "name": "专家-数据智能-腾讯健康-觅影-眼底彩照疾病分析专家-fundus-disease-analysis",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯健康-觅影-眼底彩照疾病分析专家-fundus-disease-analysis.tar.gz",
+   "size": 512797,
+   "sha256": "f35019491aab525640ead2165a19c9a2b5ff1d9c661254bc40587d4134caf144",
+   "download": "direct"
+  },
+  {
+   "id": "fbbe17770cfa",
+   "name": "专家-数据智能-腾讯组学任务分析智能诊断专家(组小学)-omics-diagnosis-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯组学任务分析智能诊断专家(组小学)-omics-diagnosis-expert.tar.gz",
+   "size": 461580,
+   "sha256": "4c525f7e1324688a7eb699239f28ce43488357d532fc37f282dcc9d1612d6fb3",
+   "download": "direct"
+  },
+  {
+   "id": "4a7c67b9ad59",
+   "name": "专家-数据智能-腾讯组学生信分析专家(组小学)-omics-bioinfo-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-腾讯组学生信分析专家(组小学)-omics-bioinfo-expert.tar.gz",
+   "size": 1960828,
+   "sha256": "4b63977bca8640f25f452054fd9d8fcc5bdc497b70db92fad177d9a6a2348c9b",
+   "download": "direct"
+  },
+  {
+   "id": "8283735be304",
+   "name": "专家-数据智能-自主优化架构师(自进化)-autonomous-optimization-architect",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-自主优化架构师(自进化)-autonomous-optimization-architect.tar.gz",
+   "size": 382202,
+   "sha256": "d47511ee99d8b51c36c10a7a712d234b2961d532c61625c09376aa5b4db568e3",
+   "download": "direct"
+  },
+  {
+   "id": "d0bc7c344d8c",
+   "name": "专家-数据智能-行业趋势专家(风向标)-trend-researcher",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-行业趋势专家(风向标)-trend-researcher.tar.gz",
+   "size": 366309,
+   "sha256": "ff0ea2b2b2dca1dbee6856f1ca294a77c29dff963421c592ee81268166aca49c",
+   "download": "direct"
+  },
+  {
+   "id": "a58eaa3d32fc",
+   "name": "专家-数据智能-资讯速递专家(数字生命卡兹克)-aihot",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-资讯速递专家(数字生命卡兹克)-aihot.tar.gz",
+   "size": 1004265,
+   "sha256": "5fbb724d0ab0c813255e331e3dd1a701b9c7aa5e2ec53ad33760dad16db5e9b6",
+   "download": "direct"
+  },
+  {
+   "id": "35554dfd52ec",
+   "name": "专家-数据智能-金数据AI表格助手(AI表格专家)-jinshuju-table-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-金数据AI表格助手(AI表格专家)-jinshuju-table-expert.tar.gz",
+   "size": 297330,
+   "sha256": "87ba0b3c63846cbe6adf01881a776cf900f142cf62816ae0b18915d9082bfb6b",
+   "download": "direct"
+  },
+  {
+   "id": "f198c3091496",
+   "name": "专家-数据智能-金数据表单与数据管理专家(金数据)-jinshuju-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-金数据表单与数据管理专家(金数据)-jinshuju-expert.tar.gz",
+   "size": 69232,
+   "sha256": "9a0cf514296c9999136912b7ab620d549d470923df21b10545824ff091190d27",
+   "download": "direct"
+  },
+  {
+   "id": "74a195aa11cf",
+   "name": "专家-数据智能-金数据表单助手(表单管理专家)-jinshuju-form-expert",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-金数据表单助手(表单管理专家)-jinshuju-form-expert.tar.gz",
+   "size": 337437,
+   "sha256": "b69c3a1a946c5105e767a0da09a66404055f47db17d8c564e8e91988b947a5fa",
+   "download": "direct"
+  },
+  {
+   "id": "bcd0a395fc9d",
+   "name": "专家-数据智能-金融数据检索专家(财数数)-finance-data",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-金融数据检索专家(财数数)-finance-data.tar.gz",
+   "size": 106080,
+   "sha256": "58fb89864c3ef4e4d3a8e4fd200f279dfcdcfad99cfd14754522bf069d097d1a",
+   "download": "direct"
+  },
+  {
+   "id": "5dbe11502a2d",
+   "name": "专家-数据智能-销售数据提取代理(拉数数)-sales-data-extraction-agent",
+   "kind": "专家",
+   "category": "数据智能",
+   "path": "专家/专家-数据智能-销售数据提取代理(拉数数)-sales-data-extraction-agent.tar.gz",
+   "size": 332605,
+   "sha256": "137795abc6a5eaa4360d6ab909ade3c4a72710140821feb7bad237f7fca46f45",
+   "download": "direct"
+  },
+  {
+   "id": "7bfaab50ed82",
+   "name": "专家-法务安全-AIGC 营销合规审查官(AIGC 合规红队)-fbsir-aigc-compliance-red-team",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-AIGC 营销合规审查官(AIGC 合规红队)-fbsir-aigc-compliance-red-team.tar.gz",
+   "size": 330753,
+   "sha256": "f7ef63ba76cbf12346cc9c8b7736f165cc5aea01f5d54caf0b4ed25bedd2fbcc",
+   "download": "direct"
+  },
+  {
+   "id": "c13575d013fa",
+   "name": "专家-法务安全-区块链安全审计师(链审审)-blockchain-security-auditor",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-区块链安全审计师(链审审)-blockchain-security-auditor.tar.gz",
+   "size": 375458,
+   "sha256": "2151537584ec3799c5f9b8837f711cffe18b102975870f2618ba26d54f3a44b5",
+   "download": "direct"
+  },
+  {
+   "id": "fbd62be926b4",
+   "name": "专家-法务安全-医疗营销合规专家(医合合)-healthcare-marketing-compliance-expert",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-医疗营销合规专家(医合合)-healthcare-marketing-compliance-expert.tar.gz",
+   "size": 305086,
+   "sha256": "4f9be28e3b8f1c88586b20c530cd157f904472383e680e5060cd5fb83fa2d4a7",
+   "download": "direct"
+  },
+  {
+   "id": "e443cab1a0fa",
+   "name": "专家-法务安全-南非法务合规专家-sa-legal-compliance",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-南非法务合规专家-sa-legal-compliance.tar.gz",
+   "size": 4314488,
+   "sha256": "18d759daee348ef18491189aa75f31c75a972f6a2b43a56e69eff15c304dc29a",
+   "download": "direct"
+  },
+  {
+   "id": "981c24c694c3",
+   "name": "专家-法务安全-发票查验专家(票证核验专家)-invoice-verify-expert",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-发票查验专家(票证核验专家)-invoice-verify-expert.tar.gz",
+   "size": 41674,
+   "sha256": "298174de33de9cdc341ea76df5daab51411faa91914a21c2026c8119d170c3d1",
+   "download": "direct"
+  },
+  {
+   "id": "f01d699492f1",
+   "name": "专家-法务安全-合同与公文审稿(花叔文档审稿专家)-huashu-doc-reviewer",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-合同与公文审稿(花叔文档审稿专家)-huashu-doc-reviewer.tar.gz",
+   "size": 135269,
+   "sha256": "7d7fc3ac910bc7bbff56bea57f87ce8fb54143dc5e79447662ea3cb29b0d9a83",
+   "download": "direct"
+  },
+  {
+   "id": "674adab5b3d0",
+   "name": "专家-法务安全-合同风控顾问(何同守)-contract-expert",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-合同风控顾问(何同守)-contract-expert.tar.gz",
+   "size": 450098,
+   "sha256": "287ce358404047a49ee59e5c97338fe100055b15f8ebda1497c40eb6f1ea0634",
+   "download": "direct"
+  },
+  {
+   "id": "b647ae048627",
+   "name": "专家-法务安全-合规审计师(合规规)-compliance-auditor",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-合规审计师(合规规)-compliance-auditor.tar.gz",
+   "size": 663084,
+   "sha256": "08d1cba5b1069b3789d78c552bd6cff943f7908843bbc08957f2b8878c28ed89",
+   "download": "direct"
+  },
+  {
+   "id": "6c6c8e7be12b",
+   "name": "专家-法务安全-客户与合规官(严守约)-smb-compliance",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-客户与合规官(严守约)-smb-compliance.tar.gz",
+   "size": 7811,
+   "sha256": "381ee5b596e71f80230431ceafa9744163bf4bc6f882c384542461aa8f935e42",
+   "download": "direct"
+  },
+  {
+   "id": "1418a4383653",
+   "name": "专家-法务安全-智能体身份信任专家(信链链)-agent-identity-trust-expert",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-智能体身份信任专家(信链链)-agent-identity-trust-expert.tar.gz",
+   "size": 359557,
+   "sha256": "650c2ae0f37162d2d88ce585bc98947df4c659a6f3b3558f40c6ba784ee85f03",
+   "download": "direct"
+  },
+  {
+   "id": "de6b876e0457",
+   "name": "专家-法务安全-法学学习教练(法学生陪练)-law-student-coach",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-法学学习教练(法学生陪练)-law-student-coach.tar.gz",
+   "size": 343885,
+   "sha256": "1566629d046399ac4f0a30f6be4d62652dc478c1e2429ffed4e6f178368f3320",
+   "download": "direct"
+  },
+  {
+   "id": "4daa0f7d076f",
+   "name": "专家-法务安全-法律合规审查员(律守正)-legal-compliance-reviewer",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-法律合规审查员(律守正)-legal-compliance-reviewer.tar.gz",
+   "size": 697579,
+   "sha256": "a163797338454c598c963db4cff50d74293c3be6074859f5a33c6c906dda7be2",
+   "download": "direct"
+  },
+  {
+   "id": "946eb38bee75",
+   "name": "专家-法务安全-法律技能治理专家(法律技能运营官)-legal-builder-hub",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-法律技能治理专家(法律技能运营官)-legal-builder-hub.tar.gz",
+   "size": 330694,
+   "sha256": "3d00e29fd29183280e7f706d4226687005cd26484e8e8cdf256abaa9f50911f8",
+   "download": "direct"
+  },
+  {
+   "id": "f6490242a6ab",
+   "name": "专家-法务安全-法律检索专家(法检 Pro)-legal-search-pro",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-法律检索专家(法检 Pro)-legal-search-pro.tar.gz",
+   "size": 552180,
+   "sha256": "50504a6f3f89d01a27427e3d32ec36b788993f1a9379265227aa20c59bdbce50",
+   "download": "direct"
+  },
+  {
+   "id": "6943a9901c48",
+   "name": "专家-法务安全-法律诊所督导顾问(法律诊所督导)-legal-clinic-supervisor",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-法律诊所督导顾问(法律诊所督导)-legal-clinic-supervisor.tar.gz",
+   "size": 393821,
+   "sha256": "4f5f3a14fc019687bd3d2b78b97fa89b6d56825b03f2d22bf5a65754ff84840a",
+   "download": "direct"
+  },
+  {
+   "id": "59451677499f",
+   "name": "专家-法务安全-知识产权专家(权知明)-ip-expert",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-知识产权专家(权知明)-ip-expert.tar.gz",
+   "size": 442134,
+   "sha256": "fa728bca299893a34b535cf9a63de82ca4d0402867daa2b5f0699ad3014bf26a",
+   "download": "direct"
+  },
+  {
+   "id": "fbad71ae33fa",
+   "name": "专家-法务安全-腾讯云安全专家-tc-sec",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-腾讯云安全专家-tc-sec.tar.gz",
+   "size": 567763,
+   "sha256": "ef70cb174d9379dcd8775e37c772a0e698aa5cd2660e9139ba5833845b86b268",
+   "download": "direct"
+  },
+  {
+   "id": "974bc5d23e88",
+   "name": "专家-法务安全-营销文案审查官(营文稳)-marketing-reviewer",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-营销文案审查官(营文稳)-marketing-reviewer.tar.gz",
+   "size": 305856,
+   "sha256": "84e7c88b39890735121b170ba89785cb3006c27282627265a1632abafe8905c5",
+   "download": "direct"
+  },
+  {
+   "id": "f056f0707a6d",
+   "name": "专家-法务安全-董秘助手(福帮手)-fbsir-board-secretary-assistant",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-董秘助手(福帮手)-fbsir-board-secretary-assistant.tar.gz",
+   "size": 170777,
+   "sha256": "11fbcf3d280c4170bb687cdaa02e413886e6349864977b333412426b53070fed",
+   "download": "direct"
+  },
+  {
+   "id": "863e45aff1e6",
+   "name": "专家-法务安全-诉讼助手(小法同学)-xiaofa-litigation-assistant",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-诉讼助手(小法同学)-xiaofa-litigation-assistant.tar.gz",
+   "size": 467652,
+   "sha256": "c8fadfda66b30a64f067d9451c641fe82d1cc9914b0c503da1d534a829351cff",
+   "download": "direct"
+  },
+  {
+   "id": "95c1b101d6e5",
+   "name": "专家-法务安全-诉讼支持顾问(诉讼法务专家)-litigation-legal",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-诉讼支持顾问(诉讼法务专家)-litigation-legal.tar.gz",
+   "size": 353818,
+   "sha256": "70141ed74a82acb707ec1a4ba8d68204f028c9f325249f6e6b27913ae75d0886",
+   "download": "direct"
+  },
+  {
+   "id": "139e0c6e5579",
+   "name": "专家-法务安全-资深合同法务专家(腾讯电子签合同法务专家)-contract-legal-expert",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-资深合同法务专家(腾讯电子签合同法务专家)-contract-legal-expert.tar.gz",
+   "size": 498342,
+   "sha256": "41f9bae32fd3e74a33c724f6a589be5e4831e6b028d2107cb47288ebb094451b",
+   "download": "direct"
+  },
+  {
+   "id": "6b60b0dc2230",
+   "name": "专家-法务安全-零知识证明管理员(零知知)-zero-knowledge-proof-admin",
+   "kind": "专家",
+   "category": "法务安全",
+   "path": "专家/专家-法务安全-零知识证明管理员(零知知)-zero-knowledge-proof-admin.tar.gz",
+   "size": 323439,
+   "sha256": "cd5aa886559ff59623ba73a2cc45b22cbd960a2d355602fcb799157e67738382",
+   "download": "direct"
+  },
+  {
+   "id": "58d3175e5391",
+   "name": "专家-游戏空间-Godot多人联机工程师(联网达)-godot-multiplayer-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Godot多人联机工程师(联网达)-godot-multiplayer-engineer.tar.gz",
+   "size": 315137,
+   "sha256": "35daf3a819eddc89b005833726cc97f9f1e36924277ba4d090fd1f5c5de69c1e",
+   "download": "direct"
+  },
+  {
+   "id": "aa79b74aaead",
+   "name": "专家-游戏空间-Godot游戏脚本工程师(节点通)-godot-game-script-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Godot游戏脚本工程师(节点通)-godot-game-script-engineer.tar.gz",
+   "size": 313180,
+   "sha256": "ea8dc0044eb8a73dc292cabf4d7666fa725240cc9fe28e2c25cc6a3668e57492",
+   "download": "direct"
+  },
+  {
+   "id": "ce91bd73dfb9",
+   "name": "专家-游戏空间-Godot着色器开发者(渲染达)-godot-shader-developer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Godot着色器开发者(渲染达)-godot-shader-developer.tar.gz",
+   "size": 359318,
+   "sha256": "40ba00a71c2750ebac6ca9f40de8a5c59bf53ad33a45f571b5c6b72344fd70a6",
+   "download": "direct"
+  },
+  {
+   "id": "010731f1eab1",
+   "name": "专家-游戏空间-Roblox体验设计师(乐体验)-roblox-experience-designer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Roblox体验设计师(乐体验)-roblox-experience-designer.tar.gz",
+   "size": 348197,
+   "sha256": "a7fee841e68026164613ae5921f1a064e93d65e6b075500f3da76fface3143c1",
+   "download": "direct"
+  },
+  {
+   "id": "7ee90b8a58e2",
+   "name": "专家-游戏空间-Roblox系统脚本工程师(脚本通)-roblox-system-script-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Roblox系统脚本工程师(脚本通)-roblox-system-script-engineer.tar.gz",
+   "size": 328010,
+   "sha256": "9a5474172ec6286539422afd3531534481b9bae296c585759ae4cf6099524bd8",
+   "download": "direct"
+  },
+  {
+   "id": "a4eddcc0a429",
+   "name": "专家-游戏空间-Roblox虚拟形象创作者(捏脸达)-roblox-avatar-creator",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Roblox虚拟形象创作者(捏脸达)-roblox-avatar-creator.tar.gz",
+   "size": 310787,
+   "sha256": "7072a7e249fe604ed5e9a4a19df01638816dd7f579d818ea0a0f10517453f4ce",
+   "download": "direct"
+  },
+  {
+   "id": "4b87e59709aa",
+   "name": "专家-游戏空间-Unity多人联机工程师(同步达)-unity-multiplayer-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unity多人联机工程师(同步达)-unity-multiplayer-engineer.tar.gz",
+   "size": 309173,
+   "sha256": "6968955c4b2cdf0763b44f1cba71fb9a0572376bedc84fe914eaa4c30b1244a4",
+   "download": "direct"
+  },
+  {
+   "id": "24fe918d7c0d",
+   "name": "专家-游戏空间-Unity架构师(解耦达)-unity-architect",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unity架构师(解耦达)-unity-architect.tar.gz",
+   "size": 315823,
+   "sha256": "083785eaafdc59843ec100722903b70ae1ea25143fef70b40993f2d065907ef2",
+   "download": "direct"
+  },
+  {
+   "id": "03a71696faa7",
+   "name": "专家-游戏空间-Unity着色器图表艺术家(着色师)-unity-shader-graph-artist",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unity着色器图表艺术家(着色师)-unity-shader-graph-artist.tar.gz",
+   "size": 354880,
+   "sha256": "f1df6f6f20b3514114403cc8eecc3536fd1d2e66f08a8558523d1e9916160e9e",
+   "download": "direct"
+  },
+  {
+   "id": "69be3f0d737f",
+   "name": "专家-游戏空间-Unity编辑器工具开发者(插件达)-unity-editor-tool-developer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unity编辑器工具开发者(插件达)-unity-editor-tool-developer.tar.gz",
+   "size": 349179,
+   "sha256": "33836a2fff4ddb19f835cfe6b586e6ac650b594e258d56e8b4c8c4bc16bab481",
+   "download": "direct"
+  },
+  {
+   "id": "28344ef4943c",
+   "name": "专家-游戏空间-Unreal世界构建师(造世界)-unreal-world-builder",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unreal世界构建师(造世界)-unreal-world-builder.tar.gz",
+   "size": 364126,
+   "sha256": "77163a66f33129536458385da5e959b7caccba33d40928ea50566329f8c758fb",
+   "download": "direct"
+  },
+  {
+   "id": "dd5484555353",
+   "name": "专家-游戏空间-Unreal多人架构师(联机达)-unreal-multiplayer-architect",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unreal多人架构师(联机达)-unreal-multiplayer-architect.tar.gz",
+   "size": 329853,
+   "sha256": "152a44b2f5560542aa7fea967465eb658ea2a121b206323648e7000dd726557b",
+   "download": "direct"
+  },
+  {
+   "id": "1b9564977456",
+   "name": "专家-游戏空间-Unreal技术美术(材质通)-unreal-technical-artist",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unreal技术美术(材质通)-unreal-technical-artist.tar.gz",
+   "size": 337332,
+   "sha256": "8c7b980ee551feaee0d1ef8836a09bcdce0566901afc5f67d8b806ebd31f9c0a",
+   "download": "direct"
+  },
+  {
+   "id": "2c6ace67011e",
+   "name": "专家-游戏空间-Unreal系统工程师(虚幻通)-unreal-system-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-Unreal系统工程师(虚幻通)-unreal-system-engineer.tar.gz",
+   "size": 317433,
+   "sha256": "8d616dd588755e17d7986904d1d7c1af6a0d75a4c17d634f77eff69163d63e2c",
+   "download": "direct"
+  },
+  {
+   "id": "60821a8ce677",
+   "name": "专家-游戏空间-XR座舱交互专家(座舱师)-xr-cockpit-interaction-expert",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-XR座舱交互专家(座舱师)-xr-cockpit-interaction-expert.tar.gz",
+   "size": 363097,
+   "sha256": "b612e842186f95053c6811f03fc967fc95bf7b449fdfb3b8278a0ad8c7bd43a8",
+   "download": "direct"
+  },
+  {
+   "id": "0de267cefb26",
+   "name": "专家-游戏空间-XR沉浸式开发者(沉浸达)-xr-immersive-developer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-XR沉浸式开发者(沉浸达)-xr-immersive-developer.tar.gz",
+   "size": 322512,
+   "sha256": "acb249b80937e9e0f966f1efad06cdb2dfe494cf1075f3e757d1189b62bb9cdf",
+   "download": "direct"
+  },
+  {
+   "id": "2b2cfba7711e",
+   "name": "专家-游戏空间-XR界面架构师(空间界)-xr-interface-architect",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-XR界面架构师(空间界)-xr-interface-architect.tar.gz",
+   "size": 307635,
+   "sha256": "f38329e72b74b05caf82497e3df4e0b5fe1192f7ec4cce65c392dc9f84b40893",
+   "download": "direct"
+  },
+  {
+   "id": "2cab61a39dc2",
+   "name": "专家-游戏空间-macOS空间Metal工程师(渲染师)-mac-os-spatial-metal-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-macOS空间Metal工程师(渲染师)-mac-os-spatial-metal-engineer.tar.gz",
+   "size": 332422,
+   "sha256": "7ec8d355998f255c33356ce332b20cb3fef68566c85794d2017fae2d10fb8e91",
+   "download": "direct"
+  },
+  {
+   "id": "a65c510492d3",
+   "name": "专家-游戏空间-visionOS空间工程师(空间通)-vision-os-spatial-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-visionOS空间工程师(空间通)-vision-os-spatial-engineer.tar.gz",
+   "size": 294431,
+   "sha256": "b81a0909ee69e08b5507cb84cff77580ae3a8152c21e3db87146989b927c9282",
+   "download": "direct"
+  },
+  {
+   "id": "746135cf3ff4",
+   "name": "专家-游戏空间-关卡设计师(关卡卡)-level-designer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-关卡设计师(关卡卡)-level-designer.tar.gz",
+   "size": 431689,
+   "sha256": "9c3fcd449b5b5e8369f3d8d252e9784eeb388afc63e481b9e22a56ac0452c862",
+   "download": "direct"
+  },
+  {
+   "id": "452ced5d9f0a",
+   "name": "专家-游戏空间-叙事设计师(剧本本)-narrative-designer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-叙事设计师(剧本本)-narrative-designer.tar.gz",
+   "size": 322310,
+   "sha256": "f12ad7d5317ec7fbb84be05fd0cfa067284e5348c151fa0ed4befa61268a2e52",
+   "download": "direct"
+  },
+  {
+   "id": "b7d3bbc0072a",
+   "name": "专家-游戏空间-技术美术(技美美)-technical-artist",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-技术美术(技美美)-technical-artist.tar.gz",
+   "size": 319104,
+   "sha256": "ccaa974370e0358af8de701783922af56c886a89e8d0655ba5c20e11a7755c94",
+   "download": "direct"
+  },
+  {
+   "id": "9a45b7835739",
+   "name": "专家-游戏空间-游戏设计师(玩法师)-game-designer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-游戏设计师(玩法师)-game-designer.tar.gz",
+   "size": 403797,
+   "sha256": "35e14c6865188a1424f48f51db96099bcf872b0a389ac9afcc1e76b481d9285b",
+   "download": "direct"
+  },
+  {
+   "id": "5e8c1d9b53e5",
+   "name": "专家-游戏空间-游戏音频工程师(音效效)-game-audio-engineer",
+   "kind": "专家",
+   "category": "游戏空间",
+   "path": "专家/专家-游戏空间-游戏音频工程师(音效效)-game-audio-engineer.tar.gz",
+   "size": 379102,
+   "sha256": "cb9eb74e3bca33e72414f902a06ef97c5e9f65d4759e27975a9418c0c8fd7f2b",
+   "download": "direct"
+  },
+  {
+   "id": "bdb0ec7a0e29",
+   "name": "专家-腾讯专区-DataBrain数据专家2.0(DataBrain)-databrain-agent-v2",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-DataBrain数据专家2.0(DataBrain)-databrain-agent-v2.tar.gz",
+   "size": 1283356,
+   "sha256": "c7a45019f2bfcf67375f593b33b611e3def3e8754b9d67a203ce2155d2a37be9",
+   "download": "direct"
+  },
+  {
+   "id": "3bf50df3391c",
+   "name": "专家-腾讯专区-SDK 日志分析专家(CloudQ)-sdk-log-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-SDK 日志分析专家(CloudQ)-sdk-log-expert.tar.gz",
+   "size": 1264258,
+   "sha256": "eba5abf36f85ab4df7a862b547dbc4474cd0cc99399cfb6e3e772b4ff8781940",
+   "download": "direct"
+  },
+  {
+   "id": "862a6f832bfc",
+   "name": "专家-腾讯专区-公益文书与财务专家(小益)-charity-doc-finance-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-公益文书与财务专家(小益)-charity-doc-finance-expert.tar.gz",
+   "size": 412900,
+   "sha256": "2f990937b2b93a66413f8f70efee8444a7067638bfe54c6f55c190554bb05eaa",
+   "download": "direct"
+  },
+  {
+   "id": "9af6abf918ac",
+   "name": "专家-腾讯专区-多云AIOps专家(CloudQ)-multi-cloud-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-多云AIOps专家(CloudQ)-multi-cloud-expert.tar.gz",
+   "size": 247131,
+   "sha256": "e29a41a83d1e39f98e9ee159ce80cae99d4bae67a0336e74a3d4aa991605f8f9",
+   "download": "direct"
+  },
+  {
+   "id": "c7fbcaf77e45",
+   "name": "专家-腾讯专区-应用性能专家(安迪)-apm-performance-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-应用性能专家(安迪)-apm-performance-expert.tar.gz",
+   "size": 387258,
+   "sha256": "23553e9030eb7c8d69092831e76cfb5e10386ac630ba938987b74eb5e3ffcf0e",
+   "download": "direct"
+  },
+  {
+   "id": "2d2525b48031",
+   "name": "专家-腾讯专区-腾讯HR数智专家(HR数智专家)-hr-digital-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯HR数智专家(HR数智专家)-hr-digital-expert.tar.gz",
+   "size": 1586021,
+   "sha256": "b46d4764a6158ef308a9211282bc6e5ef3e02c5c77e465ce826dde4e08020ebd",
+   "download": "direct"
+  },
+  {
+   "id": "0c0d9f872a8a",
+   "name": "专家-腾讯专区-腾讯云DevOps专家(CloudQ)-multi-cloud-management-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云DevOps专家(CloudQ)-multi-cloud-management-expert.tar.gz",
+   "size": 403544,
+   "sha256": "e02a1240912964d114b521be2a9add156681f0cace32fd96d46b1e4acea70c7b",
+   "download": "direct"
+  },
+  {
+   "id": "e0850a8bf8fd",
+   "name": "专家-腾讯专区-腾讯云FinOps专家(CloudQ)-finops-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云FinOps专家(CloudQ)-finops-expert.tar.gz",
+   "size": 299395,
+   "sha256": "2c1c3e8a68f436d5a9dcd9d16989eb358cfcd5de4826a841436fe95d4c99059c",
+   "download": "direct"
+  },
+  {
+   "id": "e0e3beceab08",
+   "name": "专家-腾讯专区-腾讯云SRE专家(CloudQ)-sre-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云SRE专家(CloudQ)-sre-expert.tar.gz",
+   "size": 265867,
+   "sha256": "dd4410a5cf1b1dbf399a85bcad0043f20743258a918d4cea004d01c757851474",
+   "download": "direct"
+  },
+  {
+   "id": "18a25a6d6f3f",
+   "name": "专家-腾讯专区-腾讯云产品报价顾问(腾讯云报价助手)-tencent-cloud-quote-assistant",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云产品报价顾问(腾讯云报价助手)-tencent-cloud-quote-assistant.tar.gz",
+   "size": 301900,
+   "sha256": "8faaf093f3961192351b817bf541bef2809baf684c6c666912d92df4fcf8883a",
+   "download": "direct"
+  },
+  {
+   "id": "0a8d0d3db260",
+   "name": "专家-腾讯专区-腾讯云卓越架构专家(CloudQ)-well-arch-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云卓越架构专家(CloudQ)-well-arch-expert.tar.gz",
+   "size": 332183,
+   "sha256": "d12a4e2db88f5ef7e6fb856d51b4fa992c70b854355fb34facd5d9204b7b1921",
+   "download": "direct"
+  },
+  {
+   "id": "30dbcdc22212",
+   "name": "专家-腾讯专区-腾讯云天御反诈专家(天御金融反诈)-anti-scam-agent",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云天御反诈专家(天御金融反诈)-anti-scam-agent.tar.gz",
+   "size": 449858,
+   "sha256": "357fc4d454292887cd8cd9c35b4ec3316e560c6541a7eebc7bced75525a359cc",
+   "download": "direct"
+  },
+  {
+   "id": "58d74eda2aaa",
+   "name": "专家-腾讯专区-腾讯云天御营销保护专家(天御营销保护)-tianyu-marketing-guardian",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云天御营销保护专家(天御营销保护)-tianyu-marketing-guardian.tar.gz",
+   "size": 141221,
+   "sha256": "28e904534ef5b4ad45cb1827cf00b97c1d79edea591fa037778d06e951a83b3e",
+   "download": "direct"
+  },
+  {
+   "id": "0fa135f8e335",
+   "name": "专家-腾讯专区-腾讯云天御账号保护专家(天御账号保护)-tianyu-account-guardian",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云天御账号保护专家(天御账号保护)-tianyu-account-guardian.tar.gz",
+   "size": 143392,
+   "sha256": "66f010bf117dc2e906ff0c89da7f00f06c58c528327fca6dc59f995527c1299c",
+   "download": "direct"
+  },
+  {
+   "id": "93b2804bc9b7",
+   "name": "专家-腾讯专区-腾讯云安全运营专家-soe",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云安全运营专家-soe.tar.gz",
+   "size": 2531934,
+   "sha256": "9aa737fb3ec349245fe9e7957fe490fed34c7f50cf4e6f1cd6c30673d59ab771",
+   "download": "direct"
+  },
+  {
+   "id": "ae84ded6f3d9",
+   "name": "专家-腾讯专区-腾讯云实时音视频专家(CloudQ)-tencent-rtc-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云实时音视频专家(CloudQ)-tencent-rtc-expert.tar.gz",
+   "size": 426150,
+   "sha256": "10b0f5ff6fe8230a52956335290472175bd5baa8d0f0a1eea95250cf64b696ed",
+   "download": "direct"
+  },
+  {
+   "id": "23e19f51c7aa",
+   "name": "专家-腾讯专区-腾讯云容量规划专家(CloudQ)-capacity-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云容量规划专家(CloudQ)-capacity-expert.tar.gz",
+   "size": 257962,
+   "sha256": "cf26d560be8462f7eddee1ef43eb1a4120819c1d6a19ffc96819e9cf88731f3c",
+   "download": "direct"
+  },
+  {
+   "id": "02c6292da682",
+   "name": "专家-腾讯专区-腾讯云智能客服(AndonQ)-andon-q-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云智能客服(AndonQ)-andon-q-expert.tar.gz",
+   "size": 382870,
+   "sha256": "cef9275e8b963d79bb254e402153f276166d60a9d13841b209dd52424fd088e3",
+   "download": "direct"
+  },
+  {
+   "id": "e7f685a6c284",
+   "name": "专家-腾讯专区-腾讯云混沌演练专家(CloudQ)-chaos-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云混沌演练专家(CloudQ)-chaos-expert.tar.gz",
+   "size": 259365,
+   "sha256": "3af7270728de673f852fc7c1f43a154fcb3f090b1d9afad8e0230904b5e07fee",
+   "download": "direct"
+  },
+  {
+   "id": "ef7a1ae326b5",
+   "name": "专家-腾讯专区-腾讯云风险巡检专家(CloudQ)-inspection-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯云风险巡检专家(CloudQ)-inspection-expert.tar.gz",
+   "size": 290076,
+   "sha256": "d45e72406c66f36e88570057d6a4836c69006280bfcc0723c801ba3df04f5664",
+   "download": "direct"
+  },
+  {
+   "id": "103c34f19777",
+   "name": "专家-腾讯专区-腾讯健康药箱-私域患教内容审核助手-patient-education-content-review-word-assistant",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯健康药箱-私域患教内容审核助手-patient-education-content-review-word-assistant.tar.gz",
+   "size": 353868,
+   "sha256": "0dca392c85c5f46bc8a2ecfaed7e3dca8723154c3234e6102324d9bfebf59e4a",
+   "download": "direct"
+  },
+  {
+   "id": "08453757dfdd",
+   "name": "专家-腾讯专区-腾讯安全专家(云鼎安全专家)-tencent-security-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯安全专家(云鼎安全专家)-tencent-security-expert.tar.gz",
+   "size": 17426,
+   "sha256": "8ce28d6868b618d08c91f1a4f249f9f8617ddaff90ab6168cf4adb52b21771b6",
+   "download": "direct"
+  },
+  {
+   "id": "a1ba86664c38",
+   "name": "专家-腾讯专区-腾讯技术公益智能化专家(小益)-tencent-charity-expert",
+   "kind": "专家",
+   "category": "腾讯专区",
+   "path": "专家/专家-腾讯专区-腾讯技术公益智能化专家(小益)-tencent-charity-expert.tar.gz",
+   "size": 18548,
+   "sha256": "663ea4f22281f65c1720dcc01a88e9f85e2fe8536de88a3805ad8c3436fb42a4",
+   "download": "direct"
+  },
+  {
+   "id": "95e98ec8dc04",
+   "name": "专家-营销增长-LinkedIn内容创作者(领英达)-linked-in-content-creator",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-LinkedIn内容创作者(领英达)-linked-in-content-creator.tar.gz",
+   "size": 311222,
+   "sha256": "56547b6ba9cc15a2cd81bfd5b2a821bed690be140002148cc13a5a4a4c3a9e88",
+   "download": "direct"
+  },
+  {
+   "id": "6d2683e16e1a",
+   "name": "专家-营销增长-PPC竞价广告策略师(竞高高)-ppc-bidding-strategist",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-PPC竞价广告策略师(竞高高)-ppc-bidding-strategist.tar.gz",
+   "size": 303081,
+   "sha256": "9a86f7fb87d78df682293f8518ece6ba2bc1d34556e7d627efc18c6c10cbf67b",
+   "download": "direct"
+  },
+  {
+   "id": "174fa4f0a30c",
+   "name": "专家-营销增长-Reddit社区建设者(红迪迪)-reddit-community-builder",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-Reddit社区建设者(红迪迪)-reddit-community-builder.tar.gz",
+   "size": 320857,
+   "sha256": "b5ec3745a174041a0647fcf9d77335ce02dff45297902fdb049e0c4e5edfd066",
+   "download": "direct"
+  },
+  {
+   "id": "d978ed07789a",
+   "name": "专家-营销增长-SEO专家(搜霸霸)-seo-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-SEO专家(搜霸霸)-seo-expert.tar.gz",
+   "size": 1445523,
+   "sha256": "3bd573d0874d70bdffc4f1c887e00cb851a4266e2b9092efd4259e9e4182bb75",
+   "download": "direct"
+  },
+  {
+   "id": "923778acc432",
+   "name": "专家-营销增长-中国电商运营专家(卖得好)-china-ecommerce-operations-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-中国电商运营专家(卖得好)-china-ecommerce-operations-expert.tar.gz",
+   "size": 336270,
+   "sha256": "d3d847f204d02b3393a5749d515adad99036428ce54624d70456d96272f4f83f",
+   "download": "direct"
+  },
+  {
+   "id": "4296f67f848f",
+   "name": "专家-营销增长-付费媒体审计师(查账账)-paid-media-auditor",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-付费媒体审计师(查账账)-paid-media-auditor.tar.gz",
+   "size": 288242,
+   "sha256": "93480506c4897b38bfd48040661d3b6bca1e9466ece4f722d6254cf40a3e970c",
+   "download": "direct"
+  },
+  {
+   "id": "82e51f6645b3",
+   "name": "专家-营销增长-品牌 GEO 可见度诊断师(苍何)-geo-diagnosis-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-品牌 GEO 可见度诊断师(苍何)-geo-diagnosis-expert.tar.gz",
+   "size": 446431,
+   "sha256": "03eac6f38fb1c74fca621fec7eef015dab54f9853698f8c39a7341d2f6ea25a3",
+   "download": "direct"
+  },
+  {
+   "id": "06a3c795f672",
+   "name": "专家-营销增长-品牌策略师(盾卫卫)-brand-guardian",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-品牌策略师(盾卫卫)-brand-guardian.tar.gz",
+   "size": 320564,
+   "sha256": "374b1f1f5be8de500cd2c982d33a4141e85000d7c5f3751c3bec4e6086bed0be",
+   "download": "direct"
+  },
+  {
+   "id": "a94023eaf9c8",
+   "name": "专家-营销增长-增长黑客(裂变变)-growth-hacker",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-增长黑客(裂变变)-growth-hacker.tar.gz",
+   "size": 499617,
+   "sha256": "31851dcfe34b97e4e25acc5f9edc60e3dba09fa18441f93286b930250ae9571f",
+   "download": "direct"
+  },
+  {
+   "id": "b63e78d42e96",
+   "name": "专家-营销增长-市场分析专家(鹏城信息AI专家)-market-analysis-cn",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-市场分析专家(鹏城信息AI专家)-market-analysis-cn.tar.gz",
+   "size": 276390,
+   "sha256": "d17cd8872fda42c97b4b8f0a15370ba7b386c85d715792f2fa4b5d9c822b49f8",
+   "download": "direct"
+  },
+  {
+   "id": "b1d3664aa0c0",
+   "name": "专家-营销增长-广告创意策略师(点睛睛)-ad-creative-strategist",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-广告创意策略师(点睛睛)-ad-creative-strategist.tar.gz",
+   "size": 350714,
+   "sha256": "dbec62d0e8eb36ce07f1c50b005daf0e9cbf54d50274573702c07d945c82d4ba",
+   "download": "direct"
+  },
+  {
+   "id": "d1d452901586",
+   "name": "专家-营销增长-广告投放操盘专家(爆量君)-jiayi-ads-analytics-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-广告投放操盘专家(爆量君)-jiayi-ads-analytics-expert.tar.gz",
+   "size": 526319,
+   "sha256": "70d268dfd1668fd4110b73580546dd1f60c1c45f5dfe2b6d1571dd1dc92f0e4f",
+   "download": "direct"
+  },
+  {
+   "id": "e52ab021b678",
+   "name": "专家-营销增长-广告追踪技术专家(追踪踪)-ad-tracking-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-广告追踪技术专家(追踪踪)-ad-tracking-expert.tar.gz",
+   "size": 306294,
+   "sha256": "f81c4a03e9fc19e13cad4ac701c4578c178fb53fdda84ae6b2d1718dbac98fd3",
+   "download": "direct"
+  },
+  {
+   "id": "42929520a7fe",
+   "name": "专家-营销增长-应用商店优化专家(榜上上)-app-store-optimization-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-应用商店优化专家(榜上上)-app-store-optimization-expert.tar.gz",
+   "size": 292415,
+   "sha256": "a7bb6a22e052c7c174f7c7fdac41e33c5b62957455cd2d72dcaffdfc51b59f62",
+   "download": "direct"
+  },
+  {
+   "id": "003d89a36614",
+   "name": "专家-营销增长-开发者布道师(布道道)-developer-evangelist",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-开发者布道师(布道道)-developer-evangelist.tar.gz",
+   "size": 313756,
+   "sha256": "8f1ae748e4421ac53177f0903cdfcb2ba8817e852e82d9c16067f77d23842250",
+   "download": "direct"
+  },
+  {
+   "id": "737b3a4187ec",
+   "name": "专家-营销增长-微信视频号运营策略师-wechat-channels-strategist",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-微信视频号运营策略师-wechat-channels-strategist.tar.gz",
+   "size": 389737,
+   "sha256": "aa8f2f75844bc23a8ac40eb0cff67b44a10af3bdbd5d7e6a4b4d1788f17f781f",
+   "download": "direct"
+  },
+  {
+   "id": "89496e6f90a9",
+   "name": "专家-营销增长-搜索词分析师(词探探)-search-term-analyst",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-搜索词分析师(词探探)-search-term-analyst.tar.gz",
+   "size": 363872,
+   "sha256": "329c7031f74e05a10bc937e988c98442ef3ae76c12d31623eacfd315abff216b",
+   "download": "direct"
+  },
+  {
+   "id": "9be98b757349",
+   "name": "专家-营销增长-文化智能策略师(知文文)-cultural-intelligence-strategist",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-文化智能策略师(知文文)-cultural-intelligence-strategist.tar.gz",
+   "size": 369289,
+   "sha256": "c5f1fc3f3bfead85e3b99ed48435592206d8d8fee17a5f045cba446047de6538",
+   "download": "direct"
+  },
+  {
+   "id": "6044c7bdfec6",
+   "name": "专家-营销增长-汽车营销专家(车赢赢)-auto-consultant",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-汽车营销专家(车赢赢)-auto-consultant.tar.gz",
+   "size": 405748,
+   "sha256": "3c0f18e87f51a10779c388e480fe60309a1f608de335f9aec2671006f97f1b3d",
+   "download": "direct"
+  },
+  {
+   "id": "16b8367e483d",
+   "name": "专家-营销增长-百度SEO专家(度优优)-baidu-seo-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-百度SEO专家(度优优)-baidu-seo-expert.tar.gz",
+   "size": 446764,
+   "sha256": "a62a4ebbaa87330717f36b4b160c40d183812e2994c88911ceaf9458a5f586d4",
+   "download": "direct"
+  },
+  {
+   "id": "aa3150bec59a",
+   "name": "专家-营销增长-直播电商教练(播旺旺)-livestream-ecommerce-coach",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-直播电商教练(播旺旺)-livestream-ecommerce-coach.tar.gz",
+   "size": 461923,
+   "sha256": "29b2b1ceb76694e4b2ad0a12188ca50f0fecc26b8817834b5da81658d5d4b860",
+   "download": "direct"
+  },
+  {
+   "id": "3b963a68ea96",
+   "name": "专家-营销增长-社交媒体策略师(传声声)-social-media-strategist",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-社交媒体策略师(传声声)-social-media-strategist.tar.gz",
+   "size": 309419,
+   "sha256": "7258cfc2d594491611be173106a2f3516e6e4f3bcce6d1a165800412174a31bc",
+   "download": "direct"
+  },
+  {
+   "id": "dbb67c4d95e3",
+   "name": "专家-营销增长-社交广告策略师(精投投)-social-ad-strategist",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-社交广告策略师(精投投)-social-ad-strategist.tar.gz",
+   "size": 319290,
+   "sha256": "d4b313c0268dab01cea91f2323e183ce84bac95118412a4f4175f308c747b09c",
+   "download": "direct"
+  },
+  {
+   "id": "57dea1ac23b1",
+   "name": "专家-营销增长-私域营销专家(司玉琦)-private-domain-marketing-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-私域营销专家(司玉琦)-private-domain-marketing-expert.tar.gz",
+   "size": 371733,
+   "sha256": "2b1d207676c6ce12ab28e4f00a24b52873be9c7479d0a0618db832441c7270ff",
+   "download": "direct"
+  },
+  {
+   "id": "6be1d8f9a520",
+   "name": "专家-营销增长-私域运营专家(留客客)-private-domain-operations-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-私域运营专家(留客客)-private-domain-operations-expert.tar.gz",
+   "size": 315636,
+   "sha256": "f5de5d3aab7b2c7138a22cd3545790e7528b60b3e20b8cfad431db0a9a7fb4ee",
+   "download": "direct"
+  },
+  {
+   "id": "832c9e44b8ad",
+   "name": "专家-营销增长-程序化广告买手(算法投)-programmatic-ad-buyer",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-程序化广告买手(算法投)-programmatic-ad-buyer.tar.gz",
+   "size": 337666,
+   "sha256": "c66b066a7c5b91afc4626acec9f62f81f2716e673e06e720c9647a11ac4f2cfa",
+   "download": "direct"
+  },
+  {
+   "id": "da409cbe9526",
+   "name": "专家-营销增长-自媒体热点雷达与内容增长官(热点猎手)-trend-hunter",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-自媒体热点雷达与内容增长官(热点猎手)-trend-hunter.tar.gz",
+   "size": 463637,
+   "sha256": "cdbcd1a19b39a53b3fdcd21103053d1ee6d33b6de646147f42693dad0077c9a6",
+   "download": "direct"
+  },
+  {
+   "id": "4f0ff1ee9445",
+   "name": "专家-营销增长-营销活动策划专家(策动动)-executing-marketing-campaigns",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-营销活动策划专家(策动动)-executing-marketing-campaigns.tar.gz",
+   "size": 48271,
+   "sha256": "e313a06c348bfcd41bf96162bdf85cfc9062b4bfdb60c79f32d61f261a9007bc",
+   "download": "direct"
+  },
+  {
+   "id": "629700e1a7d8",
+   "name": "专家-营销增长-跨境电商专家(海跨洋)-cross-border-ecommerce-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-跨境电商专家(海跨洋)-cross-border-ecommerce-expert.tar.gz",
+   "size": 368193,
+   "sha256": "6a239642fef0390b84a10edd3c333cab98839ae706f399d7fab6464ef38b936e",
+   "download": "direct"
+  },
+  {
+   "id": "86c729108b1b",
+   "name": "专家-营销增长-身份图谱运营师(识图图)-identity-graph-operator",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-身份图谱运营师(识图图)-identity-graph-operator.tar.gz",
+   "size": 305710,
+   "sha256": "1901ba468a472e9c3bf855e229770d7c53273b2a5624d92dc7cab95fd78b440d",
+   "download": "direct"
+  },
+  {
+   "id": "a5f11784ff9a",
+   "name": "专家-营销增长-轮播内容增长专家(翻页页)-carousel-content-growth-expert",
+   "kind": "专家",
+   "category": "营销增长",
+   "path": "专家/专家-营销增长-轮播内容增长专家(翻页页)-carousel-content-growth-expert.tar.gz",
+   "size": 287275,
+   "sha256": "29779247b98f641bb2d530311b40467ebeaca023e87810ce5a5da1d5a9d3ec57",
+   "download": "direct"
+  },
+  {
+   "id": "ddbdc98c3a81",
+   "name": "专家-行业顾问-WorkBuddy 全能导师(欧明智)-workbuddy-universal-mentor",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-WorkBuddy 全能导师(欧明智)-workbuddy-universal-mentor.tar.gz",
+   "size": 429350,
+   "sha256": "e7496341e5dcf4cea367c703415d78f55d730864fa0c7b1f38843cc719b27338",
+   "download": "direct"
+  },
+  {
+   "id": "040f46a422ab",
+   "name": "专家-行业顾问-世界杯看球搭子(看球搭子)-worldcup-buddy",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-世界杯看球搭子(看球搭子)-worldcup-buddy.tar.gz",
+   "size": 416445,
+   "sha256": "6e67dabee2fc0cb1fcb1c9c5c30312a37c21996a98dec6da9c4afd266628a2d4",
+   "download": "direct"
+  },
+  {
+   "id": "7a7e6bc01c39",
+   "name": "专家-行业顾问-严谨专业的命理咨询师(生辰命理大师)-fortune-master",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-严谨专业的命理咨询师(生辰命理大师)-fortune-master.tar.gz",
+   "size": 864500,
+   "sha256": "4bec564d4f11999d8bcb5577a786fe8e4541d8012be502099778f1373755ee42",
+   "download": "direct"
+  },
+  {
+   "id": "e0c3ba2862d5",
+   "name": "专家-行业顾问-产品顾问(AI 刘小排)-ask-liuxiaopai",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-产品顾问(AI 刘小排)-ask-liuxiaopai.tar.gz",
+   "size": 242550,
+   "sha256": "5089ef231a22e732674097beef9399a03c87f3d35e5622b511cedb66874269b2",
+   "download": "direct"
+  },
+  {
+   "id": "80e522291101",
+   "name": "专家-行业顾问-创业伙伴(林正刚)-chuangye-manor",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-创业伙伴(林正刚)-chuangye-manor.tar.gz",
+   "size": 269873,
+   "sha256": "e9e6244891cfbe7adddbe9773f6b7d53aa670bb1061d7d42df1b85850c857ba9",
+   "download": "direct"
+  },
+  {
+   "id": "48b2328b6bd7",
+   "name": "专家-行业顾问-创业心态陪伴者(蜕变践行者)-metamorphosis-practitioner",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-创业心态陪伴者(蜕变践行者)-metamorphosis-practitioner.tar.gz",
+   "size": 43688,
+   "sha256": "0d49846174df42dfe484f9e68881e004a9e4ba062113c7572c6adc317c854115",
+   "download": "direct"
+  },
+  {
+   "id": "8b4fc211cb1a",
+   "name": "专家-行业顾问-南非战略顾问专家(South African Strategy)-south-africa-strategy-advisor",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-南非战略顾问专家(South African Strategy)-south-africa-strategy-advisor.tar.gz",
+   "size": 407734,
+   "sha256": "2e69d18370b2c730c25518225931a6245914b152b7ce49de736b86b1cdab3a75",
+   "download": "direct"
+  },
+  {
+   "id": "95ef6a0e2c30",
+   "name": "专家-行业顾问-同程旅行助手(轻松出行)-tc-chengxin-travel-expert",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-同程旅行助手(轻松出行)-tc-chengxin-travel-expert.tar.gz",
+   "size": 220948,
+   "sha256": "f95181ebb223cb8d25a91e1490b0ae0d65251143e55399e7f1aea203133cd4fb",
+   "download": "direct"
+  },
+  {
+   "id": "ee77096ffa83",
+   "name": "专家-行业顾问-大学生创新创业导师(青创领航员)-innovation-startup-mentor",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-大学生创新创业导师(青创领航员)-innovation-startup-mentor.tar.gz",
+   "size": 363218,
+   "sha256": "5859f233e995961b6ed4d1933517f9fe791ccc529d0275aa1183ac47599715bb",
+   "download": "direct"
+  },
+  {
+   "id": "3b388e69716b",
+   "name": "专家-行业顾问-学习规划师-study-planner",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-学习规划师-study-planner.tar.gz",
+   "size": 306159,
+   "sha256": "6bf9432c4faf7a5e2ecca5f936575396f07f1eaa4cb156cab493ab7e105e1b4a",
+   "download": "direct"
+  },
+  {
+   "id": "853e27a8f5d7",
+   "name": "专家-行业顾问-家庭教育专家(马滢老师)-family-education-ma",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-家庭教育专家(马滢老师)-family-education-ma.tar.gz",
+   "size": 2041463,
+   "sha256": "815c1d5062f13c4082cba5f94c0ac08c0dfca3f02944e31cfb84c9dd44e3cb9c",
+   "download": "direct"
+  },
+  {
+   "id": "5bab403f719c",
+   "name": "专家-行业顾问-懒人出游规划师-lazy-travel-planner",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-懒人出游规划师-lazy-travel-planner.tar.gz",
+   "size": 481961,
+   "sha256": "e16a4779ca8698fe1dd301892f191c7ef26219a3fe5fb95d3d63946d5d8fc0df",
+   "download": "direct"
+  },
+  {
+   "id": "3ed349f3ec23",
+   "name": "专家-行业顾问-战略咨询合伙人(丁笃行)-consulting-partners",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-战略咨询合伙人(丁笃行)-consulting-partners.tar.gz",
+   "size": 2688097,
+   "sha256": "59b5d922b89997845033d7efc3f97c0689c3d3054ba5f37e49770c88d7478ac1",
+   "download": "direct"
+  },
+  {
+   "id": "27580087c64e",
+   "name": "专家-行业顾问-旅游攻略管家(路小鲜)-tripstar-agent",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-旅游攻略管家(路小鲜)-tripstar-agent.tar.gz",
+   "size": 276770,
+   "sha256": "b417700fe0ef483cf73af58e96525ce59c2d63affce465d1b3d0d0cd275a0497",
+   "download": "direct"
+  },
+  {
+   "id": "a65bff0edfe9",
+   "name": "专家-行业顾问-独立创业教练(创迪)-indie-founder-coach",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-独立创业教练(创迪)-indie-founder-coach.tar.gz",
+   "size": 361686,
+   "sha256": "1bbf4f7ae6f66eb445062c544cc416efeae067452020ca801dc9efe3b60ec42a",
+   "download": "direct"
+  },
+  {
+   "id": "1a2b07531324",
+   "name": "专家-行业顾问-留学研学专家(福帮手)-liuxue-yanxue-expert",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-留学研学专家(福帮手)-liuxue-yanxue-expert.tar.gz",
+   "size": 33684,
+   "sha256": "3fccbed86e7cdf25f31f0a5ad1d8ca087f36369eacae97d6a79aba0707aeb92d",
+   "download": "direct"
+  },
+  {
+   "id": "72a890ab51bf",
+   "name": "专家-行业顾问-私人健身营养教练(私人健身教练)-personal-fitness-coach",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-私人健身营养教练(私人健身教练)-personal-fitness-coach.tar.gz",
+   "size": 381269,
+   "sha256": "54306da23fea0526cc28e8839d3b408ab3bed60fd94d9e19423193515d856313",
+   "download": "direct"
+  },
+  {
+   "id": "1d8b99473f67",
+   "name": "专家-行业顾问-终端产业分析师(终端老兵专家（陈丰伟）)-terminal-veteran",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-终端产业分析师(终端老兵专家（陈丰伟）)-terminal-veteran.tar.gz",
+   "size": 361466,
+   "sha256": "59f33b5dc9131799e5bfd1eb1ed48616f9b7ff0d6a8cb617868a8fff91da2c79",
+   "download": "direct"
+  },
+  {
+   "id": "09ab87e3347c",
+   "name": "专家-行业顾问-腾讯探元文博专家(文博领域AI顾问)-tanyuan-cultural-heritage-expert",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-腾讯探元文博专家(文博领域AI顾问)-tanyuan-cultural-heritage-expert.tar.gz",
+   "size": 353614,
+   "sha256": "a1bcf9c1d9ea874fe96322024b31dde9840e41382674e777638f1fe48a267f5f",
+   "download": "direct"
+  },
+  {
+   "id": "d9723b73a834",
+   "name": "专家-行业顾问-苏格拉底式AI思维搭子(ChaoGeek 0x孔明)-chaogeek-kongming",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-苏格拉底式AI思维搭子(ChaoGeek 0x孔明)-chaogeek-kongming.tar.gz",
+   "size": 366522,
+   "sha256": "72938121442a0d87240f286132084ec28c50c945938ed0f6dfe1f147a80f7878",
+   "download": "direct"
+  },
+  {
+   "id": "a79a93dbe815",
+   "name": "专家-行业顾问-行业场景研究员-fbsir-industry-scene-researcher",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-行业场景研究员-fbsir-industry-scene-researcher.tar.gz",
+   "size": 191249,
+   "sha256": "e33f513f6a43e7f287eb69f6f76825f397d8901f4a384a60d1f6f4c31eb3affa",
+   "download": "direct"
+  },
+  {
+   "id": "b9b752118925",
+   "name": "专家-行业顾问-赛博神算子(运势分析师)-fortune-consultant",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-赛博神算子(运势分析师)-fortune-consultant.tar.gz",
+   "size": 681633,
+   "sha256": "3579f2c9ecc73ed70e45e4ce7043516a555d5b78729c8d4624abd1d9a5a7325d",
+   "download": "direct"
+  },
+  {
+   "id": "2cbf11448ce7",
+   "name": "专家-行业顾问-超级合伙人-魔镜行动-fbsir-super-partner",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-超级合伙人-魔镜行动-fbsir-super-partner.tar.gz",
+   "size": 74755,
+   "sha256": "a027a2a7c71b1e6c948e0b3dc3d4a16b6df7a352f247babeb5993f524429f993",
+   "download": "direct"
+  },
+  {
+   "id": "984b6f1aea70",
+   "name": "专家-行业顾问-超级独董会(福帮手)-fbsir-super-independent-board",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-超级独董会(福帮手)-fbsir-super-independent-board.tar.gz",
+   "size": 469985,
+   "sha256": "e7dcc54bda507f07a71eb261c9e24d8ff92b5d8007389954eba748224ea6ca5c",
+   "download": "direct"
+  },
+  {
+   "id": "e9159fff6bf2",
+   "name": "专家-行业顾问-越南公共事务专家(VN Pub Affair)-vietnam-public-affairs",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-越南公共事务专家(VN Pub Affair)-vietnam-public-affairs.tar.gz",
+   "size": 371574,
+   "sha256": "6f7050694b7aadd518436bd14d25a740f99e26e0d6b151eb839d77d4737ab953",
+   "download": "direct"
+  },
+  {
+   "id": "ac4ef734792c",
+   "name": "专家-行业顾问-跟进拜访助手(磐石CRM跟进拜访助手)-panshi-customer-visit-agent",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-跟进拜访助手(磐石CRM跟进拜访助手)-panshi-customer-visit-agent.tar.gz",
+   "size": 1063765,
+   "sha256": "356f541e57c90e12e306d7e9a30b9486f14b4027656c61b3c49f4225db4ec281",
+   "download": "direct"
+  },
+  {
+   "id": "e1527b555bab",
+   "name": "专家-行业顾问-门头沟区营商政策顾问(门头沟营商顾问)-mentougou-business-guide",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-门头沟区营商政策顾问(门头沟营商顾问)-mentougou-business-guide.tar.gz",
+   "size": 394584,
+   "sha256": "07c611abd95178fe38c7ba5bb5cf1b475b8988aab85336c04ec457a2346222dd",
+   "download": "direct"
+  },
+  {
+   "id": "62220db9e9b8",
+   "name": "专家-行业顾问-高考我帮你(专业高考顾问)-gaokao-advisor",
+   "kind": "专家",
+   "category": "行业顾问",
+   "path": "专家/专家-行业顾问-高考我帮你(专业高考顾问)-gaokao-advisor.tar.gz",
+   "size": 447840,
+   "sha256": "f317467e8e1bead375c5b9a1f8a170502cd7b3e813713f45bce8243e9a9f9d98",
+   "download": "direct"
+  },
+  {
+   "id": "4e522c8afb95",
+   "name": "专家-运营人力-i人事-利唐智语AI面试官(AI面试官)-ihr-ai-interviewer",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-i人事-利唐智语AI面试官(AI面试官)-ihr-ai-interviewer.tar.gz",
+   "size": 401438,
+   "sha256": "ed87751534a7f09153bea25c7b4dbfaec3c4506daeafe804f06ef2a1f0280d7d",
+   "download": "direct"
+  },
+  {
+   "id": "e738d84ada2d",
+   "name": "专家-运营人力-i人事-利唐智语AI面谈官-ihr-conference",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-i人事-利唐智语AI面谈官-ihr-conference.tar.gz",
+   "size": 391572,
+   "sha256": "d186042d5502d73025cd62235e4a93a3e0546d05100ea48efbe6c91a7e5c7872",
+   "download": "direct"
+  },
+  {
+   "id": "b8eb64505aca",
+   "name": "专家-运营人力-人力资源数字化专家(小Q)-qingflow-hr-expert",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-人力资源数字化专家(小Q)-qingflow-hr-expert.tar.gz",
+   "size": 206079,
+   "sha256": "f31ea63dd00dfdd974e2f2dd3444b797c2bde464f1ff24ee99a31a6bd666031e",
+   "download": "direct"
+  },
+  {
+   "id": "81ca1f5f1c2e",
+   "name": "专家-运营人力-企业培训设计师(育才才)-corporate-training-designer",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-企业培训设计师(育才才)-corporate-training-designer.tar.gz",
+   "size": 311211,
+   "sha256": "5bede9a56a17a24bc50698db232fd7b8b397ddca66fc37614b59b30cc53cbfda",
+   "download": "direct"
+  },
+  {
+   "id": "fe903f0a8270",
+   "name": "专家-运营人力-供应链策略师(链优优)-supply-chain-strategist",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-供应链策略师(链优优)-supply-chain-strategist.tar.gz",
+   "size": 350743,
+   "sha256": "e56e6a372defb9c3e81b7e01ed84e0d2b0d8ae6cf19f7ef82720fe42368e2b38",
+   "download": "direct"
+  },
+  {
+   "id": "cde033b940bc",
+   "name": "专家-运营人力-南非人力行政专家(South Africa HR)-south-africa-hr-admin",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-南非人力行政专家(South Africa HR)-south-africa-hr-admin.tar.gz",
+   "size": 5237879,
+   "sha256": "67829cc4d89e9a7eb6ca34b1a15b9b0d68049165fc9d3477b69331002fa2bf04",
+   "download": "direct"
+  },
+  {
+   "id": "136db19be59f",
+   "name": "专家-运营人力-备课易(福帮手)-fbsir-beike-yi",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-备课易(福帮手)-fbsir-beike-yi.tar.gz",
+   "size": 99995,
+   "sha256": "92a9a108966fb475e98fd8c3eb965427c794e3c0a8c207ba74b0cf4706e2e5bd",
+   "download": "direct"
+  },
+  {
+   "id": "f102b0a9e933",
+   "name": "专家-运营人力-客户支持专家(暖心心)-customer-support-expert",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-客户支持专家(暖心心)-customer-support-expert.tar.gz",
+   "size": 314461,
+   "sha256": "eecfadd51ac11f51ff8b68a11a7996c453d1f4d44b6bb7b9150568be4ca371a1",
+   "download": "direct"
+  },
+  {
+   "id": "b7b1ae584630",
+   "name": "专家-运营人力-招聘专家(伯乐乐)-recruitment-expert",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-招聘专家(伯乐乐)-recruitment-expert.tar.gz",
+   "size": 301342,
+   "sha256": "b654438b56bee9b063467775fbaeca39f3881787a2b0b38aef375afeb24deebd",
+   "download": "direct"
+  },
+  {
+   "id": "842dabcfd85b",
+   "name": "专家-运营人力-留学顾问(留洋洋)-study-abroad-consultant",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-留学顾问(留洋洋)-study-abroad-consultant.tar.gz",
+   "size": 323713,
+   "sha256": "6ce6d69b10c857d21d885e2a0918c529e6a1beaf5a2708642cc30ae62a398eb9",
+   "download": "direct"
+  },
+  {
+   "id": "778da120dc84",
+   "name": "专家-运营人力-简历优化专家(鹏城信息AI专家)-resume-assistant",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-简历优化专家(鹏城信息AI专家)-resume-assistant.tar.gz",
+   "size": 263126,
+   "sha256": "e2a5c15859e720e44ba81d56442e591edcfe1b8dcf96e348b06aec9259ecefb7",
+   "download": "direct"
+  },
+  {
+   "id": "ed6eafaa1dce",
+   "name": "专家-运营人力-组织运营师(毕运营)-smb-operations",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-组织运营师(毕运营)-smb-operations.tar.gz",
+   "size": 7364,
+   "sha256": "e3964af1325557eae520d21ef2901a760043acac3f9db61a0739c871b2570a94",
+   "download": "direct"
+  },
+  {
+   "id": "6dd42d6aab44",
+   "name": "专家-运营人力-面试模拟专家(鹏城信息AI专家)-interview-simulator",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-面试模拟专家(鹏城信息AI专家)-interview-simulator.tar.gz",
+   "size": 284353,
+   "sha256": "48bdb6ff07bd35225c965825711d7410b1d90e999dc138e6a57037982e214e01",
+   "download": "direct"
+  },
+  {
+   "id": "1e90ee25447e",
+   "name": "专家-运营人力-鹅厂职业经纪人-career-broker",
+   "kind": "专家",
+   "category": "运营人力",
+   "path": "专家/专家-运营人力-鹅厂职业经纪人-career-broker.tar.gz",
+   "size": 484549,
+   "sha256": "00e9880420d29b1dad90651f2292f9725dddd94107e55c6fb069add8441755ea",
+   "download": "direct"
+  },
+  {
+   "id": "92677cef485f",
+   "name": "专家-金融投资-LP 报表审核师(审细明)-statement-auditor",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-LP 报表审核师(审细明)-statement-auditor.tar.gz",
+   "size": 427972,
+   "sha256": "391b4c92170562e24c5c318816140ba9966b342bd024534952b6963e6c4dc0dd",
+   "download": "direct"
+  },
+  {
+   "id": "d3febe131e7d",
+   "name": "专家-金融投资-个股深度诊断师(通达信诊断师)-tdx-stock-diagnostician",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-个股深度诊断师(通达信诊断师)-tdx-stock-diagnostician.tar.gz",
+   "size": 413554,
+   "sha256": "18c24fdb7b1ad6ac5499eea9b83b4fa04238367095bc27b31cad2d466eb097e9",
+   "download": "direct"
+  },
+  {
+   "id": "fee49075ca0b",
+   "name": "专家-金融投资-价值评估师(通达信评估师)-tdx-value-assessor",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-价值评估师(通达信评估师)-tdx-value-assessor.tar.gz",
+   "size": 413383,
+   "sha256": "dff575564e7a442ac8bf0ac9583a3378e89e6ce87c4808901040641fa6b5b970",
+   "download": "direct"
+  },
+  {
+   "id": "63b145726d17",
+   "name": "专家-金融投资-会前准备助理(周备全)-meeting-prep-agent",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-会前准备助理(周备全)-meeting-prep-agent.tar.gz",
+   "size": 459244,
+   "sha256": "fe470694393bebf0585bbdd6888bdb1dbbb642af84d6ef73e72ae874b3b8b878",
+   "download": "direct"
+  },
+  {
+   "id": "cf681c595f04",
+   "name": "专家-金融投资-基金投研分析师-fund-research-analyst",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-基金投研分析师-fund-research-analyst.tar.gz",
+   "size": 355758,
+   "sha256": "e5003517041e29c0e3975c29f50eaa1475cb9a013dcb9f16e07abe95cffdc663",
+   "download": "direct"
+  },
+  {
+   "id": "4291582ebdf3",
+   "name": "专家-金融投资-多市场智能股票分析师(星辰)-smart-stock-analyst",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-多市场智能股票分析师(星辰)-smart-stock-analyst.tar.gz",
+   "size": 459098,
+   "sha256": "f5bd3bfe96cd626dfe554e8bfffb2fb63b9b200ea08f07df1537c2ed3543d311",
+   "download": "direct"
+  },
+  {
+   "id": "e123c6c531c8",
+   "name": "专家-金融投资-客户合规官(查本源)-kyc-screener",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-客户合规官(查本源)-kyc-screener.tar.gz",
+   "size": 387817,
+   "sha256": "5fc1e94837803f5e8295bf4f16aee490cb89ccfbb0d6fe2d7f13d69824016857",
+   "download": "direct"
+  },
+  {
+   "id": "48fe300a73a5",
+   "name": "专家-金融投资-应付账款代理(付清清)-accounts-payable-agent",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-应付账款代理(付清清)-accounts-payable-agent.tar.gz",
+   "size": 295728,
+   "sha256": "c5a0cb4b8590c6dbaf9124a439313b167d0a0f921f8e1bc9acbe79c82026bc44",
+   "download": "direct"
+  },
+  {
+   "id": "b5ac5755e8f9",
+   "name": "专家-金融投资-总账对账师(钱对齐)-gl-reconciler",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-总账对账师(钱对齐)-gl-reconciler.tar.gz",
+   "size": 432170,
+   "sha256": "36cc24d81d2d1e64d10968f6e94cd5a1b60e5946411b74fafbd3e66ab4220c04",
+   "download": "direct"
+  },
+  {
+   "id": "d2f0278a0dad",
+   "name": "专家-金融投资-投行交易助理(白必得)-pitch-agent",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-投行交易助理(白必得)-pitch-agent.tar.gz",
+   "size": 2788101,
+   "sha256": "e2716f801d040e044250d5b18604beb8d64c3526f8b1577a6ce7bb81233b2a08",
+   "download": "direct"
+  },
+  {
+   "id": "b0de351d982a",
+   "name": "专家-金融投资-投资银行专家(银拓远)-investment-banking",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-投资银行专家(银拓远)-investment-banking.tar.gz",
+   "size": 72116,
+   "sha256": "f1461b16d25e5782e2e2f5250f0a03041aab04bab72b9d83e3462c6dfd0e4439",
+   "download": "direct"
+  },
+  {
+   "id": "7832f151e404",
+   "name": "专家-金融投资-新股专家-new-share-expert",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-新股专家-new-share-expert.tar.gz",
+   "size": 328262,
+   "sha256": "23a3ed607cd2764d3ea3817cf1da2ab25ec3036504135f49ffd26a3bc0e9a69a",
+   "download": "direct"
+  },
+  {
+   "id": "27b3012ccb3b",
+   "name": "专家-金融投资-智能选股猎手(通达信选股猎手)-tdx-stock-hunter",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-智能选股猎手(通达信选股猎手)-tdx-stock-hunter.tar.gz",
+   "size": 413259,
+   "sha256": "4311b24da837347088663bc794bd0411cfa59bca11d24ba326d471079e3e5c1e",
+   "download": "direct"
+  },
+  {
+   "id": "92be62bdb98d",
+   "name": "专家-金融投资-月末结账会计(关月结)-month-end-closer",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-月末结账会计(关月结)-month-end-closer.tar.gz",
+   "size": 457376,
+   "sha256": "47f6cb848b2dcc15fc9ac61ea4d049ace65809bec6c195fd86087ffa689be715",
+   "download": "direct"
+  },
+  {
+   "id": "7d1dedb6fee6",
+   "name": "专家-金融投资-私募股权专家(募资资)-private-equity",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-私募股权专家(募资资)-private-equity.tar.gz",
+   "size": 17227,
+   "sha256": "a7b52a9172e3141e6af20549216b887821cb2c99a2a006107bec1f290182258f",
+   "download": "direct"
+  },
+  {
+   "id": "47ab6cb98ee7",
+   "name": "专家-金融投资-组合估值主管(顾估衡)-valuation-reviewer",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-组合估值主管(顾估衡)-valuation-reviewer.tar.gz",
+   "size": 2552852,
+   "sha256": "cbdeaf537520db0c491cb9d225b15e1c2481efbcd817b1d43fe0f642134c8c5c",
+   "download": "direct"
+  },
+  {
+   "id": "2158d919c349",
+   "name": "专家-金融投资-股市投研分析师(同舟股市投研专家)-fin-research-expert",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-股市投研分析师(同舟股市投研专家)-fin-research-expert.tar.gz",
+   "size": 448225,
+   "sha256": "f843f2267ad6b4416db583e098bcb53ca316e16726e2860ed86b38ad19868437",
+   "download": "direct"
+  },
+  {
+   "id": "3ca4be3d3e98",
+   "name": "专家-金融投资-股票研究专家(严估深)-equity-research",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-股票研究专家(严估深)-equity-research.tar.gz",
+   "size": 339425,
+   "sha256": "3954122c6b0d0172ac8f9833fadd8dadb0b353d9235ddfedf37c370ad1af8d12",
+   "download": "direct"
+  },
+  {
+   "id": "612bc5c6621b",
+   "name": "专家-金融投资-腾讯云天御对公信贷专家(天御对公信贷)-corp-credit-due-diligence",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-腾讯云天御对公信贷专家(天御对公信贷)-corp-credit-due-diligence.tar.gz",
+   "size": 2991616,
+   "sha256": "df7f1479836f50774593a1ab5637eabcf3c0959848d8265e7d50258371efb80b",
+   "download": "direct"
+  },
+  {
+   "id": "bb89316d0e7a",
+   "name": "专家-金融投资-行业研究员(严研行)-market-researcher",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-行业研究员(严研行)-market-researcher.tar.gz",
+   "size": 2572579,
+   "sha256": "df727a5b4a31c31b4e4886dbe72180be58a048c2499d8e97157cbcb82f997332",
+   "download": "direct"
+  },
+  {
+   "id": "cdd53067fe68",
+   "name": "专家-金融投资-行情洞察与趋势发现专家(鹏城信息AI专家)-yahoo-finance-cli",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-行情洞察与趋势发现专家(鹏城信息AI专家)-yahoo-finance-cli.tar.gz",
+   "size": 262252,
+   "sha256": "047b3597c09ede1a43bdaad91a41fd0c9724f26cc09c9541b79566448d0d4a1c",
+   "download": "direct"
+  },
+  {
+   "id": "1b93fffb6394",
+   "name": "专家-金融投资-财务会计专家(记账账)-finance",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-财务会计专家(记账账)-finance.tar.gz",
+   "size": 40193,
+   "sha256": "a030ba812a7342f99b5671289efb6790045d6bf3ddf8fda261ce536ec471c088",
+   "download": "direct"
+  },
+  {
+   "id": "a66af4a47d1e",
+   "name": "专家-金融投资-财务建模师(莫百炼)-model-builder",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-财务建模师(莫百炼)-model-builder.tar.gz",
+   "size": 2588839,
+   "sha256": "5d3040217b257dd5532977f4016f99f0036dc4b9563ca61c008a041ffd85573b",
+   "download": "direct"
+  },
+  {
+   "id": "c449b7b52b9b",
+   "name": "专家-金融投资-财务管家(钱守通)-smb-finance",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-财务管家(钱守通)-smb-finance.tar.gz",
+   "size": 12793,
+   "sha256": "7692d72d2f350fb8ab7bccf7600896d23e86885a12105ff1050897d4b9445896",
+   "download": "direct"
+  },
+  {
+   "id": "252ad8605150",
+   "name": "专家-金融投资-财务追踪师(账清清)-financial-tracker",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-财务追踪师(账清清)-financial-tracker.tar.gz",
+   "size": 331573,
+   "sha256": "1cb2c8b1f445670c30c1d3c25121817e0022ad9af7d240b1ee24ad7264655607",
+   "download": "direct"
+  },
+  {
+   "id": "ced6b04a362c",
+   "name": "专家-金融投资-财富管理专家(理财财)-wealth-management",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-财富管理专家(理财财)-wealth-management.tar.gz",
+   "size": 12208,
+   "sha256": "6df0b097e620bd0929d3af81890f65740029f5f6b1176ee4498346a344637e87",
+   "download": "direct"
+  },
+  {
+   "id": "5671c3fa999e",
+   "name": "专家-金融投资-财报研究员(季明辨)-earnings-reviewer",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-财报研究员(季明辨)-earnings-reviewer.tar.gz",
+   "size": 2562015,
+   "sha256": "b7cda15bbcfd5d11168569ca153e3a28c05cdc7d72af1ebc5794faddc13d408a",
+   "download": "direct"
+  },
+  {
+   "id": "f45bb96b55ac",
+   "name": "专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert.tar.gz",
+   "size": 519612500,
+   "sha256": "73936abb6551fe0d7c928d0cc0bab9d0184c1ed02cb488b263c8e142db9febcc",
+   "parts": [
+    "_parts/专家/专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert.tar.gz.part-00",
+    "_parts/专家/专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert.tar.gz.part-01",
+    "_parts/专家/专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert.tar.gz.part-02",
+    "_parts/专家/专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert.tar.gz.part-03",
+    "_parts/专家/专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert.tar.gz.part-04",
+    "_parts/专家/专家-金融投资-越南财税金融专家(Vietnam Finance & Tax Expert)-vietnam-finance-tax-expert.tar.gz.part-05"
+   ],
+   "download": "parts"
+  },
+  {
+   "id": "eca91dc1ba73",
+   "name": "专家-金融投资-量化策略回测师(回测明算)-strategy-backtest-expert",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-量化策略回测师(回测明算)-strategy-backtest-expert.tar.gz",
+   "size": 2482044,
+   "sha256": "e6ae58960e89f896db3291ba331da65cbe1a75814762d56b71bfc1211c4638f5",
+   "download": "direct"
+  },
+  {
+   "id": "518ba9e6e29c",
+   "name": "专家-金融投资-金融建模专家(建模模)-financial-analysis",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-金融建模专家(建模模)-financial-analysis.tar.gz",
+   "size": 81871,
+   "sha256": "c09489cd03c45ef06b5d71e7bcadb2d77899426fd91222719ee993dad7764a65",
+   "download": "direct"
+  },
+  {
+   "id": "f2f292acc67c",
+   "name": "专家-金融投资-项目来了，先把路理清(MAI Lab并购交易Agent)-mai-deal-advisor",
+   "kind": "专家",
+   "category": "金融投资",
+   "path": "专家/专家-金融投资-项目来了，先把路理清(MAI Lab并购交易Agent)-mai-deal-advisor.tar.gz",
+   "size": 471231,
+   "sha256": "b150e6faab452428c2a1e3511d22bcfa2248532386a24deef84f39b17a59a9fb",
+   "download": "direct"
+  },
+  {
+   "id": "46687c0464b9",
+   "name": "专家-销售商务-Cordys CRM L2C 管道专家(Cordys CRM 助手)-cordys-crm",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-Cordys CRM L2C 管道专家(Cordys CRM 助手)-cordys-crm.tar.gz",
+   "size": 91640,
+   "sha256": "417d6c19496a3cc0f5b36e4118eb566527d825bd8a975d2bde98ba1795275487",
+   "download": "direct"
+  },
+  {
+   "id": "2dac7e61c531",
+   "name": "专家-销售商务-亚马逊 Listing 优化专家(Linkfox)-linkfox-expert-amazon-listing-specialist",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-亚马逊 Listing 优化专家(Linkfox)-linkfox-expert-amazon-listing-specialist.tar.gz",
+   "size": 2443465,
+   "sha256": "2f2d85fab7d03734bd7b670765dfce3e0ae5a0a6906ff15e159d4ec0141f88ef",
+   "download": "direct"
+  },
+  {
+   "id": "3835e4a87444",
+   "name": "专家-销售商务-交易策略师(赢单单)-deal-strategist",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-交易策略师(赢单单)-deal-strategist.tar.gz",
+   "size": 326700,
+   "sha256": "e36552a85caf37fe74043a464f7f86ba15188125561b809c7df8b5bcaddee968",
+   "download": "direct"
+  },
+  {
+   "id": "e606390d84ee",
+   "name": "专家-销售商务-产业园招商专家(福帮手)-industrial-park-investment-attraction-expert",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-产业园招商专家(福帮手)-industrial-park-investment-attraction-expert.tar.gz",
+   "size": 539960,
+   "sha256": "8775f2065faf7469611cc7fcba7c239ab2ed21b809c7606059f7e44ce637e7a9",
+   "download": "direct"
+  },
+  {
+   "id": "778239917f34",
+   "name": "专家-销售商务-同城配送助手(UU跑腿)-uupt-delivery",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-同城配送助手(UU跑腿)-uupt-delivery.tar.gz",
+   "size": 106920,
+   "sha256": "90c4feda8d91db96a4cd4a57e626fb88eae7dabd5d2400aeccf47dd9ce7ca397",
+   "download": "direct"
+  },
+  {
+   "id": "eddc4b50b8e4",
+   "name": "专家-销售商务-售前技术顾问(方案通)-presales-technical-consultant",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-售前技术顾问(方案通)-presales-technical-consultant.tar.gz",
+   "size": 654751,
+   "sha256": "2cabde098ab85b27c407d8afbe6dcd3827d8f568474a14351b8bc54e3d44ec92",
+   "download": "direct"
+  },
+  {
+   "id": "83602e12c4af",
+   "name": "专家-销售商务-外呼策略师(拨必通)-outbound-strategist",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-外呼策略师(拨必通)-outbound-strategist.tar.gz",
+   "size": 304699,
+   "sha256": "a66067121aef79ce4cf3308a6b5cac3f006a497fcbd59bad00f4e001fa17e77e",
+   "download": "direct"
+  },
+  {
+   "id": "67112f55ae96",
+   "name": "专家-销售商务-大客户策略师(拓客客)-enterprise-account-strategist",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-大客户策略师(拓客客)-enterprise-account-strategist.tar.gz",
+   "size": 330156,
+   "sha256": "3f272b0165205d76b7c527afd12b6f8401a6a71869d8987f9d5f19d268b56586",
+   "download": "direct"
+  },
+  {
+   "id": "185c2300f975",
+   "name": "专家-销售商务-投标与方案策略师(投标策略师)-bidding-strategist",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-投标与方案策略师(投标策略师)-bidding-strategist.tar.gz",
+   "size": 436048,
+   "sha256": "3ffa4c41a2f11128466b7bbc4a7fe18b5e5732981b52453b873b3acc61407ded",
+   "download": "direct"
+  },
+  {
+   "id": "96b46ceb0aa3",
+   "name": "专家-销售商务-政府数字化售前顾问(政通通)-government-digital-presales-consultant",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-政府数字化售前顾问(政通通)-government-digital-presales-consultant.tar.gz",
+   "size": 632383,
+   "sha256": "8969bc32e146f1d75a4d48e2f36ba756204aeaefe16509318c0a5c7bd41dd783",
+   "download": "direct"
+  },
+  {
+   "id": "85dfd0d2a755",
+   "name": "专家-销售商务-方案策划师(策必中)-proposal-strategist",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-方案策划师(策必中)-proposal-strategist.tar.gz",
+   "size": 655341,
+   "sha256": "58ddb41ba71ea7ba761fec46ba61727a1ce90e35bcc7447604621505d086d37e",
+   "download": "direct"
+  },
+  {
+   "id": "f66ef4f425ae",
+   "name": "专家-销售商务-美团生活助手(40-20 外卖券)-meituan-living-assistant",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-美团生活助手(40-20 外卖券)-meituan-living-assistant.tar.gz",
+   "size": 557797,
+   "sha256": "3848ac916c7eb67b1e8285fbbbd0230964c545e98bb7bfc788f380dc4cba9da4",
+   "download": "direct"
+  },
+  {
+   "id": "0f8af749d2b7",
+   "name": "专家-销售商务-营收增长师(甄客来)-smb-revenue",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-营收增长师(甄客来)-smb-revenue.tar.gz",
+   "size": 8883,
+   "sha256": "40de3328618d2471846657a4387c4c8ae0a5ef584413ba239a947ce22f838549",
+   "download": "direct"
+  },
+  {
+   "id": "9010e31f0539",
+   "name": "专家-销售商务-销售教练(单必成)-sales-coach",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-销售教练(单必成)-sales-coach.tar.gz",
+   "size": 334592,
+   "sha256": "de8853f53ddc52d48a4036bc108354779d68bc5c9d6a29cb29348846acd3e8f5",
+   "download": "direct"
+  },
+  {
+   "id": "e95181015063",
+   "name": "专家-销售商务-销售管道分析师(漏斗通)-sales-pipeline-analyst",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-销售管道分析师(漏斗通)-sales-pipeline-analyst.tar.gz",
+   "size": 328623,
+   "sha256": "1715747dafc71bc4124ce1960c3e0bda06dfb4c9eaa70e3e671885a0b1be553d",
+   "download": "direct"
+  },
+  {
+   "id": "5b863142db36",
+   "name": "专家-销售商务-需求发现教练(掘需需)-discovery-coach",
+   "kind": "专家",
+   "category": "销售商务",
+   "path": "专家/专家-销售商务-需求发现教练(掘需需)-discovery-coach.tar.gz",
+   "size": 633607,
+   "sha256": "7c3e8de06c49755cfa642ab53e7076e368fabb9fadcd3626e67c6a9b3334238b",
+   "download": "direct"
+  },
+  {
+   "id": "71819b31d7c9",
+   "name": "专家-项目质量-API测试专家(接口探)-api-testing-expert",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-API测试专家(接口探)-api-testing-expert.tar.gz",
+   "size": 324421,
+   "sha256": "c968dbc9586e3e604b7aa70ee8826551cf3dd6c0cce26db466fbe201d4ffe505",
+   "download": "direct"
+  },
+  {
+   "id": "734bd67ce113",
+   "name": "专家-项目质量-Jira工作流管理员(看板达)-jira-workflow-admin",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-Jira工作流管理员(看板达)-jira-workflow-admin.tar.gz",
+   "size": 300720,
+   "sha256": "a4ff006d82337823bd5457b44502012638182fbc52d1151e769b41cbad140def",
+   "download": "direct"
+  },
+  {
+   "id": "86d0fa6260a7",
+   "name": "专家-项目质量-Web应用测试专家(端测测)-webapp-testing",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-Web应用测试专家(端测测)-webapp-testing.tar.gz",
+   "size": 7072,
+   "sha256": "3e1853c5e33c11fe682890da01c93d12b407332033f6a7198852dcc39c18f800",
+   "download": "direct"
+  },
+  {
+   "id": "bf5ab46a985e",
+   "name": "专家-项目质量-会议纪要提取专家(鹏城信息AI专家)-ai-meeting-notes",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-会议纪要提取专家(鹏城信息AI专家)-ai-meeting-notes.tar.gz",
+   "size": 276832,
+   "sha256": "ad563077a1349ca6f967633a394d9f4c3af66d27f453f7afbc6cf12a4094bb55",
+   "download": "direct"
+  },
+  {
+   "id": "0ce2d2e511eb",
+   "name": "专家-项目质量-内部沟通专家(传令令)-internal-comms",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-内部沟通专家(传令令)-internal-comms.tar.gz",
+   "size": 10943,
+   "sha256": "0afe7bbfb75e8faddeb8f7edf94b4b15688162346406ca42dacf762e4dfa2564",
+   "download": "direct"
+  },
+  {
+   "id": "be85baf9daf5",
+   "name": "专家-项目质量-实验追踪管理者(实验通)-experiment-tracking-manager",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-实验追踪管理者(实验通)-experiment-tracking-manager.tar.gz",
+   "size": 324985,
+   "sha256": "f975124ea89e7537f6a5796a075f16a3c3922e4e6b89b379f59208111b219182",
+   "download": "direct"
+  },
+  {
+   "id": "205e4dc0c13c",
+   "name": "专家-项目质量-工作室制片人(制片达)-studio-producer",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-工作室制片人(制片达)-studio-producer.tar.gz",
+   "size": 279996,
+   "sha256": "a07c8dc74e4f9c74648bc361fd002ca8c7f362ee9ed88f27fcc1f29d006c9478",
+   "download": "direct"
+  },
+  {
+   "id": "86b6fb1d1275",
+   "name": "专家-项目质量-工作室运营管理者(统筹筹)-studio-operations-manager",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-工作室运营管理者(统筹筹)-studio-operations-manager.tar.gz",
+   "size": 316681,
+   "sha256": "707bbd63e41b709842a92371ae13c8aebd70667440a3c82ea78e1aaceca199c9",
+   "download": "direct"
+  },
+  {
+   "id": "0f886e35af8a",
+   "name": "专家-项目质量-工作流优化专家(流畅畅)-workflow-optimization-expert",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-工作流优化专家(流畅畅)-workflow-optimization-expert.tar.gz",
+   "size": 641083,
+   "sha256": "f592edd873797fc6d68fe398e2ba4bd3cd7ef9d5790f4f0c4632319d9c177140",
+   "download": "direct"
+  },
+  {
+   "id": "94c7feed930c",
+   "name": "专家-项目质量-工具评估专家(选品品)-tool-evaluation-expert",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-工具评估专家(选品品)-tool-evaluation-expert.tar.gz",
+   "size": 317371,
+   "sha256": "50a167957693047540b65258f8e83831b6440a5ea71814e1cfc662a7a5db8377",
+   "download": "direct"
+  },
+  {
+   "id": "4010b82ef990",
+   "name": "专家-项目质量-性能测试专家(压测测)-performance-testing-expert",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-性能测试专家(压测测)-performance-testing-expert.tar.gz",
+   "size": 301004,
+   "sha256": "cc301fd9542e9d470634327e0ce37d8c5181b83941afbe25e26ddb53ff585f8f",
+   "download": "direct"
+  },
+  {
+   "id": "c2e53a52f995",
+   "name": "专家-项目质量-战略报告顾问(简明明)-executive-summary-generator",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-战略报告顾问(简明明)-executive-summary-generator.tar.gz",
+   "size": 294223,
+   "sha256": "582eda92536b3965f73c7b486a3d94e39ea319f0714812b2b7ba546f2d7e317a",
+   "download": "direct"
+  },
+  {
+   "id": "ac1fea947a19",
+   "name": "专家-项目质量-技术文档工程师(文通通)-technical-documentation-engineer",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-技术文档工程师(文通通)-technical-documentation-engineer.tar.gz",
+   "size": 643939,
+   "sha256": "d2b9be1b7715531a3aa959d581e1d7937e18ed3b6a5e5a1462ecd92c6ffef54f",
+   "download": "direct"
+  },
+  {
+   "id": "ebd8ae9fea8d",
+   "name": "专家-项目质量-文档处理专家(理文文)-document-skills",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-文档处理专家(理文文)-document-skills.tar.gz",
+   "size": 699243,
+   "sha256": "b3d8adae48ed3a6c30e15ec680cbeca76a8dc7a277e7fe06d9e334f7d58fdc53",
+   "download": "direct"
+  },
+  {
+   "id": "dab29cefb8ae",
+   "name": "专家-项目质量-文档生成专家(文档达)-document-generation-expert",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-文档生成专家(文档达)-document-generation-expert.tar.gz",
+   "size": 605695,
+   "sha256": "adc523fd398ae002d14f8fbf8733f103d8fe95e92e3c32b6c0e8ecdc000d558f",
+   "download": "direct"
+  },
+  {
+   "id": "bc0ba8f809d6",
+   "name": "专家-项目质量-无障碍审计师(无碍碍)-accessibility-auditor",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-无障碍审计师(无碍碍)-accessibility-auditor.tar.gz",
+   "size": 304708,
+   "sha256": "daaff53eeebbba5c4f040c4b51613a7f8d0d89053b47d7b7695ed5078143789a",
+   "download": "direct"
+  },
+  {
+   "id": "1a17f60a33cb",
+   "name": "专家-项目质量-智能体编排师(调度达)-agent-orchestrator",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-智能体编排师(调度达)-agent-orchestrator.tar.gz",
+   "size": 358601,
+   "sha256": "3fb6db5fe202761c67666d2bdd669108801a6f90977f6bf948cc6b28027e62f7",
+   "download": "direct"
+  },
+  {
+   "id": "26c6503b99dd",
+   "name": "专家-项目质量-测试结果分析师(析测测)-test-results-analyst",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-测试结果分析师(析测测)-test-results-analyst.tar.gz",
+   "size": 305342,
+   "sha256": "fd265a0dffd6e358ab01ae331b927470b5006b7788fc6267a063738c8e043042",
+   "download": "direct"
+  },
+  {
+   "id": "d4bc244143b1",
+   "name": "专家-项目质量-现实检查员(验真真)-reality-checker",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-现实检查员(验真真)-reality-checker.tar.gz",
+   "size": 279356,
+   "sha256": "811509eba9c7534c52b57d052d380b89e410ea56051263fb5625b74c4767ab3c",
+   "download": "direct"
+  },
+  {
+   "id": "959aadc9468d",
+   "name": "专家-项目质量-证据收集员(截图图)-evidence-collector",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-证据收集员(截图图)-evidence-collector.tar.gz",
+   "size": 337160,
+   "sha256": "8ace6089a813fb5ff94d046389fd635f685fdd993c1e1a91c23a2b45b9bb1371",
+   "download": "direct"
+  },
+  {
+   "id": "5b75fb551333",
+   "name": "专家-项目质量-项目牧羊人(牧羊羊)-project-shepherd",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-项目牧羊人(牧羊羊)-project-shepherd.tar.gz",
+   "size": 305027,
+   "sha256": "c51f9a0df24fda312c8816d386081fe529e4fa584bd09707fba2b2d8695258fa",
+   "download": "direct"
+  },
+  {
+   "id": "a4aa9c2644e3",
+   "name": "专家-项目质量-高级项目经理(关德豪)-senior-project-manager",
+   "kind": "专家",
+   "category": "项目质量",
+   "path": "专家/专家-项目质量-高级项目经理(关德豪)-senior-project-manager.tar.gz",
+   "size": 639781,
+   "sha256": "24753d332d78da1c21515b66759703c872390fd3809c62f40010034fcc6b6ac9",
+   "download": "direct"
+  },
+  {
+   "id": "e85031ed80a9",
+   "name": "专家团-产品设计-产品战略团队-product-strategy-team",
+   "kind": "专家团",
+   "category": "产品设计",
+   "path": "专家团/专家团-产品设计-产品战略团队-product-strategy-team.tar.gz",
+   "size": 2075741,
+   "sha256": "4d4a3391d670d6433d0bea85d90a79fdac2f6aea3c395d7592927009baf87c3b",
+   "download": "direct"
+  },
+  {
+   "id": "253a3ac9c826",
+   "name": "专家团-产品设计-设计原型专家团-design-engine",
+   "kind": "专家团",
+   "category": "产品设计",
+   "path": "专家团/专家团-产品设计-设计原型专家团-design-engine.tar.gz",
+   "size": 9399076,
+   "sha256": "a13c4b5ec9062253489967f2821f78db0700c8a8049d05027c229539ee596608",
+   "download": "direct"
+  },
+  {
+   "id": "e9c39959c379",
+   "name": "专家团-内容创作-AI视频创作团队(苍何视频生成团队)-video-gen-team",
+   "kind": "专家团",
+   "category": "内容创作",
+   "path": "专家团/专家团-内容创作-AI视频创作团队(苍何视频生成团队)-video-gen-team.tar.gz",
+   "size": 2045814,
+   "sha256": "a6bc88b5ff3d3622f0f6c31ed82e78716886a3a4740719a931c3a8695314531c",
+   "download": "direct"
+  },
+  {
+   "id": "8186c65242be",
+   "name": "专家团-内容创作-全域内容分发专家团-content-distribution-team",
+   "kind": "专家团",
+   "category": "内容创作",
+   "path": "专家团/专家团-内容创作-全域内容分发专家团-content-distribution-team.tar.gz",
+   "size": 8726838,
+   "sha256": "e9dcf1d243c0d2968187f4818d19a0ed7e52b0fb00b73d9ce8e900997ca9535b",
+   "download": "direct"
+  },
+  {
+   "id": "9de7c5a00990",
+   "name": "专家团-内容创作-内容创作专家团-ai-content-creator-team",
+   "kind": "专家团",
+   "category": "内容创作",
+   "path": "专家团/专家团-内容创作-内容创作专家团-ai-content-creator-team.tar.gz",
+   "size": 12010833,
+   "sha256": "ed8adee40f6ba14d7dd9361acbbff36d3b994d7f846f22b145fb872a6dcf57dc",
+   "download": "direct"
+  },
+  {
+   "id": "ca14e9dde3fd",
+   "name": "专家团-内容创作-卡尔的人感PPT专家团(PPT大纲、生成、视频、演示与交付专家团)-humanize-ppt-team",
+   "kind": "专家团",
+   "category": "内容创作",
+   "path": "专家团/专家团-内容创作-卡尔的人感PPT专家团(PPT大纲、生成、视频、演示与交付专家团)-humanize-ppt-team.tar.gz",
+   "size": 11568312,
+   "sha256": "f6076090f0afce676f8d8420ac694df0a342e19d6da5d572d472e72be2b725f2",
+   "download": "direct"
+  },
+  {
+   "id": "e7103c225e9f",
+   "name": "专家团-内容创作-宣传片创作团队(袋鼠帝宣传片创作团队)-promo-creator-team",
+   "kind": "专家团",
+   "category": "内容创作",
+   "path": "专家团/专家团-内容创作-宣传片创作团队(袋鼠帝宣传片创作团队)-promo-creator-team.tar.gz",
+   "size": 1112497,
+   "sha256": "12b24211f5859f7f94ef9f1b2b8507d81484135ad9eaa8c5dee81ced7c86af9b",
+   "download": "direct"
+  },
+  {
+   "id": "4c4d83401f53",
+   "name": "专家团-内容创作-汽车行业内容创作专家团-content-creation-expert-prod",
+   "kind": "专家团",
+   "category": "内容创作",
+   "path": "专家团/专家团-内容创作-汽车行业内容创作专家团-content-creation-expert-prod.tar.gz",
+   "size": 2650041,
+   "sha256": "35fdd38e40a374416b46f4b3957f7f37ce088b9512ee662d2b070d7139b0d446",
+   "download": "direct"
+  },
+  {
+   "id": "9b8a70160e2a",
+   "name": "专家团-内容创作-视频解剖专家团(苍何视频解剖)-video-dissection",
+   "kind": "专家团",
+   "category": "内容创作",
+   "path": "专家团/专家团-内容创作-视频解剖专家团(苍何视频解剖)-video-dissection.tar.gz",
+   "size": 1784270,
+   "sha256": "383aec493a4f64464a2b08582f4b53a76d95fcf0336fc5c1b147eecb043c4e57",
+   "download": "direct"
+  },
+  {
+   "id": "e9ed1f7b0462",
+   "name": "专家团-技术工程-MVP开发专家团-mvp-dev-expert-team",
+   "kind": "专家团",
+   "category": "技术工程",
+   "path": "专家团/专家团-技术工程-MVP开发专家团-mvp-dev-expert-team.tar.gz",
+   "size": 3370759,
+   "sha256": "bbdb8a00eb645dc3a9ae5e825a95afbe230946d08ed18dee8392b3d2db77a494",
+   "download": "direct"
+  },
+  {
+   "id": "e4b4f8c195f4",
+   "name": "专家团-技术工程-Makers 开发专家团-edgeone-makers-experts",
+   "kind": "专家团",
+   "category": "技术工程",
+   "path": "专家团/专家团-技术工程-Makers 开发专家团-edgeone-makers-experts.tar.gz",
+   "size": 2326847,
+   "sha256": "6867365adc584c5164c4142d5b52dbc1e03cf040c52fc2774e0ac2ad4852d993",
+   "download": "direct"
+  },
+  {
+   "id": "289531b8852a",
+   "name": "专家团-技术工程-工程保障团队-engineering-assurance-team",
+   "kind": "专家团",
+   "category": "技术工程",
+   "path": "专家团/专家团-技术工程-工程保障团队-engineering-assurance-team.tar.gz",
+   "size": 2258162,
+   "sha256": "cb9cec53a04faa92b6ec61c61234512edb8918cbd661f30a064e5ae22f814739",
+   "download": "direct"
+  },
+  {
+   "id": "9abfc7b30ce8",
+   "name": "专家团-技术工程-腾讯云 RUM 全链路专家团-rum-fullstack-team",
+   "kind": "专家团",
+   "category": "技术工程",
+   "path": "专家团/专家团-技术工程-腾讯云 RUM 全链路专家团-rum-fullstack-team.tar.gz",
+   "size": 5715791,
+   "sha256": "86a1039e4417e6d03737c072fa631a9dd0cd3e67ea255c41903670f9266d0954",
+   "download": "direct"
+  },
+  {
+   "id": "7da0c52cc089",
+   "name": "专家团-技术工程-计算机等级考试专家团-ncre-expert",
+   "kind": "专家团",
+   "category": "技术工程",
+   "path": "专家团/专家团-技术工程-计算机等级考试专家团-ncre-expert.tar.gz",
+   "size": 2205909,
+   "sha256": "a64e02cdda1d52dd83b0c914437d2722efcc8d2792464612c76996a5264aae76",
+   "download": "direct"
+  },
+  {
+   "id": "6fe4ce5a1b35",
+   "name": "专家团-技术工程-软件工坊-gstack",
+   "kind": "专家团",
+   "category": "技术工程",
+   "path": "专家团/专家团-技术工程-软件工坊-gstack.tar.gz",
+   "size": 2578183,
+   "sha256": "87609ee61600e39a5bd610d2e562e62af2d094acab2510713f3a03d028ebc549",
+   "download": "direct"
+  },
+  {
+   "id": "959f7019a4d7",
+   "name": "专家团-技术工程-软件开发团队-software-company",
+   "kind": "专家团",
+   "category": "技术工程",
+   "path": "专家团/专家团-技术工程-软件开发团队-software-company.tar.gz",
+   "size": 14005,
+   "sha256": "96844658a2ef166f3c66e9edcac8ec1434c9eb2672be9e69b470fa8926498f82",
+   "download": "direct"
+  },
+  {
+   "id": "7d65ec37dbee",
+   "name": "专家团-数据智能-学术选刊顾问团 v3.1(万方数据)-academic-journal-selector",
+   "kind": "专家团",
+   "category": "数据智能",
+   "path": "专家团/专家团-数据智能-学术选刊顾问团 v3.1(万方数据)-academic-journal-selector.tar.gz",
+   "size": 3107086,
+   "sha256": "8afecd989fb7328576c2efc9aba96a73762cf840d08bc3ddb00e95f6a6954a65",
+   "download": "direct"
+  },
+  {
+   "id": "26cd74cfe542",
+   "name": "专家团-数据智能-智数分析专家团-ai-data-copilot",
+   "kind": "专家团",
+   "category": "数据智能",
+   "path": "专家团/专家团-数据智能-智数分析专家团-ai-data-copilot.tar.gz",
+   "size": 10922863,
+   "sha256": "ffd646ee0d0293930487ead05757568ee5903b31bd2531f01220d975c2217b49",
+   "download": "direct"
+  },
+  {
+   "id": "2c4fc918ee17",
+   "name": "专家团-数据智能-深度研究团队-gpt-researcher-team",
+   "kind": "专家团",
+   "category": "数据智能",
+   "path": "专家团/专家团-数据智能-深度研究团队-gpt-researcher-team.tar.gz",
+   "size": 60129,
+   "sha256": "a837cb7460ff36bc943d9136ede54831927c3a91819cb663f4649ab88c516e30",
+   "download": "direct"
+  },
+  {
+   "id": "f8144c6c96ec",
+   "name": "专家团-数据智能-科研专家团-empirical-research-team",
+   "kind": "专家团",
+   "category": "数据智能",
+   "path": "专家团/专家团-数据智能-科研专家团-empirical-research-team.tar.gz",
+   "size": 12799762,
+   "sha256": "439f1cb5df06b8848202030fce2aa8f058a760ed2a21618acfcab34a1862cbb2",
+   "download": "direct"
+  },
+  {
+   "id": "a56b2157a6d1",
+   "name": "专家团-数据智能-花叔数据分析专家团-huashu-data-pro",
+   "kind": "专家团",
+   "category": "数据智能",
+   "path": "专家团/专家团-数据智能-花叔数据分析专家团-huashu-data-pro.tar.gz",
+   "size": 236733,
+   "sha256": "558301843dcec0620b4f70c78e2093fb57e07f765bd4abd4c13ac32231a70e50",
+   "download": "direct"
+  },
+  {
+   "id": "4925ff1c2b0c",
+   "name": "专家团-法务安全-中文法律咨询团-chatlaw-team",
+   "kind": "专家团",
+   "category": "法务安全",
+   "path": "专家团/专家团-法务安全-中文法律咨询团-chatlaw-team.tar.gz",
+   "size": 3019167,
+   "sha256": "fc0d7ff8b51bf56cc8301c64795e97e3120eb0a90fd98aa0368138c895f8ca59",
+   "download": "direct"
+  },
+  {
+   "id": "f804a7ce650b",
+   "name": "专家团-法务安全-企业法务专家团-enterprise-legal-team",
+   "kind": "专家团",
+   "category": "法务安全",
+   "path": "专家团/专家团-法务安全-企业法务专家团-enterprise-legal-team.tar.gz",
+   "size": 3521508,
+   "sha256": "45964abab45e63902adfdd804c33ce1d0862dc8027e65dcba9177692a75b54c4",
+   "download": "direct"
+  },
+  {
+   "id": "aa1ba7dc39c9",
+   "name": "专家团-法务安全-智能发票专家团-invoice-verify-workbuddy",
+   "kind": "专家团",
+   "category": "法务安全",
+   "path": "专家团/专家团-法务安全-智能发票专家团-invoice-verify-workbuddy.tar.gz",
+   "size": 1628034,
+   "sha256": "1bee6810ac50a4bb7cc0bfbfb6f2a5ad3e750cbc3e4e587e1b9d9bc490893cbf",
+   "download": "direct"
+  },
+  {
+   "id": "d5eedde45211",
+   "name": "专家团-法务安全-财税合规专家团-tax-compliance-team",
+   "kind": "专家团",
+   "category": "法务安全",
+   "path": "专家团/专家团-法务安全-财税合规专家团-tax-compliance-team.tar.gz",
+   "size": 10539226,
+   "sha256": "657830c82fd67f4bc8505958837dccc1a77bd3141baa9754179d6b7f01031284",
+   "download": "direct"
+  },
+  {
+   "id": "098887c219df",
+   "name": "专家团-游戏空间-游戏开发工作室(鹏城信息AI专家)-game-development-studio",
+   "kind": "专家团",
+   "category": "游戏空间",
+   "path": "专家团/专家团-游戏空间-游戏开发工作室(鹏城信息AI专家)-game-development-studio.tar.gz",
+   "size": 1976043,
+   "sha256": "3dd8e2a0cb22abe0fad706ceecfdb9b2f8cfa46205103d04663e2e0b22d83888",
+   "download": "direct"
+  },
+  {
+   "id": "0eb807aec3bb",
+   "name": "专家团-腾讯专区-腾讯云上云迁移专家团-migraq-team",
+   "kind": "专家团",
+   "category": "腾讯专区",
+   "path": "专家团/专家团-腾讯专区-腾讯云上云迁移专家团-migraq-team.tar.gz",
+   "size": 2106747,
+   "sha256": "210af191b0cda7b78a536204cdc92471d990f21dee7dd8042a111f2b6c38d996",
+   "download": "direct"
+  },
+  {
+   "id": "c582e460a270",
+   "name": "专家团-腾讯专区-腾讯云技术支持-cloud-ops-team",
+   "kind": "专家团",
+   "category": "腾讯专区",
+   "path": "专家团/专家团-腾讯专区-腾讯云技术支持-cloud-ops-team.tar.gz",
+   "size": 1911057,
+   "sha256": "a6881c45e946ca52dd7bb7a0a5cc3b4eb3d2f4c0b0e84304eb307dc738727621",
+   "download": "direct"
+  },
+  {
+   "id": "c24bdeddfc45",
+   "name": "专家团-腾讯专区-腾讯云行业SRE(腾讯云行业 SRE)-industry-sre-team",
+   "kind": "专家团",
+   "category": "腾讯专区",
+   "path": "专家团/专家团-腾讯专区-腾讯云行业SRE(腾讯云行业 SRE)-industry-sre-team.tar.gz",
+   "size": 5108502,
+   "sha256": "a176a75d0439525c22a7a0c2c393f1cb121d39a3c2da4e0c622b04164cff8c46",
+   "download": "direct"
+  },
+  {
+   "id": "1a969cc1222b",
+   "name": "专家团-营销增长-SEO 内容营销团队-seo-content-team",
+   "kind": "专家团",
+   "category": "营销增长",
+   "path": "专家团/专家团-营销增长-SEO 内容营销团队-seo-content-team.tar.gz",
+   "size": 12641114,
+   "sha256": "99e3a01d3ff7fdc455ae19ae887b063f1e1f272eb3db9c97e905b1c0715484f1",
+   "download": "direct"
+  },
+  {
+   "id": "ddd24f8f6c43",
+   "name": "专家团-营销增长-内容变现商业化专家团-content-monetization-team",
+   "kind": "专家团",
+   "category": "营销增长",
+   "path": "专家团/专家团-营销增长-内容变现商业化专家团-content-monetization-team.tar.gz",
+   "size": 9071302,
+   "sha256": "a8baaebfb5551abe784fc3c8029f5f87dfdb6336ca6ecf0c43c5a165ec0e0fcc",
+   "download": "direct"
+  },
+  {
+   "id": "6d747ce3252e",
+   "name": "专家团-营销增长-社媒互动增长专家团-social-engagement-team",
+   "kind": "专家团",
+   "category": "营销增长",
+   "path": "专家团/专家团-营销增长-社媒互动增长专家团-social-engagement-team.tar.gz",
+   "size": 8981475,
+   "sha256": "45f65d66afc4afa61bfb8390dbeebf043907e6782ce90e2b4f4beb5df17f671c",
+   "download": "direct"
+  },
+  {
+   "id": "08066b389e3d",
+   "name": "专家团-营销增长-腾讯健康NGES医药营销专家团-nges-healthcare-marketing-team",
+   "kind": "专家团",
+   "category": "营销增长",
+   "path": "专家团/专家团-营销增长-腾讯健康NGES医药营销专家团-nges-healthcare-marketing-team.tar.gz",
+   "size": 2279176,
+   "sha256": "23f3b0106ca74f1d66a3d3e92fa73fa95ad5161857f3d91ffb53a9a1bbcaca19",
+   "download": "direct"
+  },
+  {
+   "id": "14b93846ee65",
+   "name": "专家团-营销增长-营销增长专家团-marketing-growth-team",
+   "kind": "专家团",
+   "category": "营销增长",
+   "path": "专家团/专家团-营销增长-营销增长专家团-marketing-growth-team.tar.gz",
+   "size": 7164233,
+   "sha256": "102503f60fc3de7a587ab54f790f2c201799c005422e6752a76cc0f515e047bc",
+   "download": "direct"
+  },
+  {
+   "id": "831bd9d7c08b",
+   "name": "专家团-营销增长-营销战役团队-marketing-campaign-team",
+   "kind": "专家团",
+   "category": "营销增长",
+   "path": "专家团/专家团-营销增长-营销战役团队-marketing-campaign-team.tar.gz",
+   "size": 2451824,
+   "sha256": "a8b198b1f5fd178ce3f68239c6b63e1240fa89bf6247a7c0bf83d9b69b5ebf36",
+   "download": "direct"
+  },
+  {
+   "id": "303b71340124",
+   "name": "专家团-行业顾问-KET备考专家团-ket-prep-team",
+   "kind": "专家团",
+   "category": "行业顾问",
+   "path": "专家团/专家团-行业顾问-KET备考专家团-ket-prep-team.tar.gz",
+   "size": 1858674,
+   "sha256": "b3460443908de7dea3a2b8467b745ee40a0912a40e012ad18d1e2a4bfa022139",
+   "download": "direct"
+  },
+  {
+   "id": "8cd85c188ca6",
+   "name": "专家团-行业顾问-一人公司专家团-opc-team",
+   "kind": "专家团",
+   "category": "行业顾问",
+   "path": "专家团/专家团-行业顾问-一人公司专家团-opc-team.tar.gz",
+   "size": 3889675,
+   "sha256": "b6386f88433c9f0d7ccc2e4c9ed84a62619a7e77cede6b4274a111d502c2771d",
+   "download": "direct"
+  },
+  {
+   "id": "29cbbbec7dfa",
+   "name": "专家团-行业顾问-技术公益专家团-skillhub-charity-expert-team",
+   "kind": "专家团",
+   "category": "行业顾问",
+   "path": "专家团/专家团-行业顾问-技术公益专家团-skillhub-charity-expert-team.tar.gz",
+   "size": 676939,
+   "sha256": "e8bb4ccf9e0477dd3ecdbd2dea50d36f63aaf389ecebd882036e2418424b7c1d",
+   "download": "direct"
+  },
+  {
+   "id": "fe6857a388bf",
+   "name": "专家团-行业顾问-求职陪跑团-job-companion-team",
+   "kind": "专家团",
+   "category": "行业顾问",
+   "path": "专家团/专家团-行业顾问-求职陪跑团-job-companion-team.tar.gz",
+   "size": 1980445,
+   "sha256": "033cb2cb12e2803518ed452a36ab297f61033303d21255f7ef15ec4e01760554",
+   "download": "direct"
+  },
+  {
+   "id": "6f0f3267e023",
+   "name": "专家团-行业顾问-独董会-fbsir-eight-seat-board",
+   "kind": "专家团",
+   "category": "行业顾问",
+   "path": "专家团/专家团-行业顾问-独董会-fbsir-eight-seat-board.tar.gz",
+   "size": 3844500,
+   "sha256": "cf73bd07299aa39466d54128f61800650e47598cd8aa078118b5c9694b045097",
+   "download": "direct"
+  },
+  {
+   "id": "e009c2a4b87f",
+   "name": "专家团-行业顾问-经营总管(小企业经营团队)-smb-team",
+   "kind": "专家团",
+   "category": "行业顾问",
+   "path": "专家团/专家团-行业顾问-经营总管(小企业经营团队)-smb-team.tar.gz",
+   "size": 7131469,
+   "sha256": "33cf2d74db66821acf3da54e20f1beb8f553d839f37b9c70efb4c6728f67c426",
+   "download": "direct"
+  },
+  {
+   "id": "35be01c0944d",
+   "name": "专家团-行业顾问-选题顾问（WANFANG TOPIC）-paper-topic-selection",
+   "kind": "专家团",
+   "category": "行业顾问",
+   "path": "专家团/专家团-行业顾问-选题顾问（WANFANG TOPIC）-paper-topic-selection.tar.gz",
+   "size": 456320,
+   "sha256": "03edb06fdb5d30d8e170dd2b2cab7ac0f6532a7f2d064d5ece0a9b665adcd9b8",
+   "download": "direct"
+  },
+  {
+   "id": "47fbc7620faa",
+   "name": "专家团-运营人力-HR 运营团队-hr-operations-team",
+   "kind": "专家团",
+   "category": "运营人力",
+   "path": "专家团/专家团-运营人力-HR 运营团队-hr-operations-team.tar.gz",
+   "size": 2082913,
+   "sha256": "bd38656a4d60a99f2bd5b124d3bc4114bd91fca4ea78e22dc443819adb06ee3a",
+   "download": "direct"
+  },
+  {
+   "id": "6b2931bd4bbf",
+   "name": "专家团-金融投资-AI尽调专家团-dd-due-diligence-team",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-AI尽调专家团-dd-due-diligence-team.tar.gz",
+   "size": 4642993,
+   "sha256": "7aee6ae517610fd82d97f8008f292f08203b3c31c3dae4906e7cdcd90e4d3dc8",
+   "download": "direct"
+  },
+  {
+   "id": "1e7cb21d9b27",
+   "name": "专家团-金融投资-A股研究团队-a-share-analysis",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-A股研究团队-a-share-analysis.tar.gz",
+   "size": 5266450,
+   "sha256": "fdd8c68e118cba0d4c9fbcb374e6d53198a6d992a49ff52cd41392f6c22c80e2",
+   "download": "direct"
+  },
+  {
+   "id": "9323e7847fb6",
+   "name": "专家团-金融投资-交易分析团队-trading-agent",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-交易分析团队-trading-agent.tar.gz",
+   "size": 22401,
+   "sha256": "d58841aa53d55f6cf3ca6af4b42f0d698819856d8f0cfa67dbacf31313ea3b23",
+   "download": "direct"
+  },
+  {
+   "id": "8686f1c4a6e4",
+   "name": "专家团-金融投资-刺桐说Pro-投资社群嘉宾团-citongshuopro",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-刺桐说Pro-投资社群嘉宾团-citongshuopro.tar.gz",
+   "size": 1751854,
+   "sha256": "0f046b211d4dad7a74025fcb80480b8dca19fe20bae2ebe0680e67623b993b10",
+   "download": "direct"
+  },
+  {
+   "id": "869ec8d600e7",
+   "name": "专家团-金融投资-投资大师专家团-investment-masters-team",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-投资大师专家团-investment-masters-team.tar.gz",
+   "size": 6362900,
+   "sha256": "0dae2001a77a06dd758f5dc60deeeefc50c10f4d7d4d47db85518544d4363a3f",
+   "download": "direct"
+  },
+  {
+   "id": "1f4a439933b7",
+   "name": "专家团-金融投资-相信光么-believe-in-light",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-相信光么-believe-in-light.tar.gz",
+   "size": 3187389,
+   "sha256": "3dffb3605f03d2cc68a2b14c9a3c291984d62480a1623d63672e0f4215ba16b0",
+   "download": "direct"
+  },
+  {
+   "id": "18cffaca7d55",
+   "name": "专家团-金融投资-腾讯自选股股票投研专家团-stock-partner-team",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-腾讯自选股股票投研专家团-stock-partner-team.tar.gz",
+   "size": 1219230,
+   "sha256": "7c335b1bc6dead2a7533d6c20b8f66a225264358b564f7c3a62553ad50d74933",
+   "download": "direct"
+  },
+  {
+   "id": "fb81887084c4",
+   "name": "专家团-金融投资-资本市场路演研究团-roadshow-research-team",
+   "kind": "专家团",
+   "category": "金融投资",
+   "path": "专家团/专家团-金融投资-资本市场路演研究团-roadshow-research-team.tar.gz",
+   "size": 4895856,
+   "sha256": "69d4f62d79e8b1c3a8fb5a3269467c451198f2c61c6cac72a5807765c604dc53",
+   "download": "direct"
+  },
+  {
+   "id": "218232f62065",
+   "name": "专家团-销售商务-销售作战团队-sales-battle-team",
+   "kind": "专家团",
+   "category": "销售商务",
+   "path": "专家团/专家团-销售商务-销售作战团队-sales-battle-team.tar.gz",
+   "size": 1671277,
+   "sha256": "c332ad3b9d29795674a5c921e5c04f3219716c8d342bba8b419f9c7b47eeb125",
+   "download": "direct"
+  },
+  {
+   "id": "a53a2f2f7303",
+   "name": "专家团-项目质量-专业文档生成团队-openspec-doc-team",
+   "kind": "专家团",
+   "category": "项目质量",
+   "path": "专家团/专家团-项目质量-专业文档生成团队-openspec-doc-team.tar.gz",
+   "size": 1358598,
+   "sha256": "8b2ed6f785a7b46d61a49949daeb8afe3e31c879305b8c75ce8509a8caf32651",
+   "download": "direct"
+  }
+ ]
+}
